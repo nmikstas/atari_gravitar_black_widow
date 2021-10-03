@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name Asteroids)(type Legacy)(uri ${KIPRJMOD}/Asteroids.lib)(options "")(descr ""))
+  (lib (name atari_gravitar_black_widow-cache)(type Legacy)(uri ${KIPRJMOD}/atari_gravitar_black_widow-cache.lib)(options "")(descr ""))
+  (lib (name quantum_arcade_pcb)(type Legacy)(uri ${KIPRJMOD}/quantum_arcade_pcb.lib)(options "")(descr ""))
+  (lib (name star_wars_arcade_main_pcb)(type Legacy)(uri ${KIPRJMOD}/star_wars_arcade_main_pcb.lib)(options "")(descr ""))
+  (lib (name Star_Wars_Vector_PCB)(type Legacy)(uri ${KIPRJMOD}/Star_Wars_Vector_PCB.lib)(options "")(descr ""))
+  (lib (name atari_grav_bw)(type Legacy)(uri ${KIPRJMOD}/atari_grav_bw.lib)(options "")(descr ""))
+)
