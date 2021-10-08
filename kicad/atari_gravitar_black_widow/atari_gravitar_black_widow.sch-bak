@@ -28,4 +28,320 @@ Text GLabel 41975 27900 2    50   Input ~ 0
 ~RESET
 Wire Wire Line
 	41975 27900 41850 27900
+$Comp
+L atari_grav_bw:cat_box_con J?
+U 1 1 638DE0D2
+P 44150 27375
+F 0 "J?" H 44125 28750 50  0000 C CNN
+F 1 "cat_box_con" H 44125 28659 50  0000 C CNN
+F 2 "" H 44150 29225 50  0001 C CNN
+F 3 "" H 44150 29225 50  0001 C CNN
+	1    44150 27375
+	1    0    0    -1  
+$EndComp
+Text GLabel 24075 20850 0    33   Input ~ 0
+~OP2
+Text GLabel 25500 20900 0    50   Input ~ 0
+DVY12
+Text GLabel 25500 21000 0    50   Input ~ 0
+DVY11
+Text GLabel 25500 21100 0    50   Input ~ 0
+DVY10
+Text GLabel 25500 21200 0    50   Input ~ 0
+DVY9
+Text GLabel 25500 21300 0    50   Input ~ 0
+DVY8
+Text GLabel 25500 21400 0    50   Input ~ 0
+DVY7
+Text GLabel 25500 21500 0    50   Input ~ 0
+DVY6
+Text GLabel 25500 21600 0    50   Input ~ 0
+DVY5
+Text GLabel 25500 21700 0    50   Input ~ 0
+DVY4
+Text GLabel 25500 21800 0    50   Input ~ 0
+DVY3
+Text GLabel 25500 21900 0    50   Input ~ 0
+DVY2
+Text GLabel 25500 22000 0    50   Input ~ 0
+DVY1
+Text GLabel 25500 22100 0    50   Input ~ 0
+DVY0
+Text GLabel 25500 22450 0    50   Input ~ 0
+OP1
+Text GLabel 25500 23350 0    33   Input ~ 0
+~VGGO
+Text GLabel 22800 23500 0    33   Input ~ 0
+~VMEM
+Text GLabel 19275 21400 0    50   Input ~ 0
+VGCK
+Text GLabel 19275 21500 0    50   Input ~ 0
+3MHZ
+Text GLabel 19300 21600 0    50   Input ~ 0
+6MHZ
+Text GLabel 19300 21725 0    50   Input ~ 0
+12MHZ
+Text GLabel 19275 21925 0    50   Input ~ 0
+HALT
+Text GLabel 19250 22075 0    50   Input ~ 0
+GO
+Text GLabel 19225 22250 0    50   Input ~ 0
+AM7
+Text GLabel 19225 22400 0    50   Input ~ 0
+AM6
+Text GLabel 19225 22575 0    50   Input ~ 0
+AM5
+Text GLabel 19225 22700 0    50   Input ~ 0
+AM4
+Text GLabel 19225 22825 0    50   Input ~ 0
+OP2
+Text GLabel 19225 22950 0    50   Input ~ 0
+OP1
+Text GLabel 19225 23075 0    50   Input ~ 0
+OP0
+Text GLabel 19225 23200 0    50   Input ~ 0
+AM3
+Text GLabel 19225 23350 0    50   Input ~ 0
+AM2
+Text GLabel 19200 23500 0    50   Input ~ 0
+AM1
+Text GLabel 19225 23725 0    50   Input ~ 0
+AM0
+Text GLabel 19225 23975 0    33   Input ~ 0
+~DISRST
+Text GLabel 27000 21650 2    50   Output ~ 0
+AVG13
+Text GLabel 27000 21750 2    50   Output ~ 0
+AVG12
+Text GLabel 27000 21850 2    50   Output ~ 0
+AVG11
+Text GLabel 27000 21950 2    50   Output ~ 0
+AVG10
+Text GLabel 27000 22050 2    50   Output ~ 0
+AVG9
+Text GLabel 27000 22150 2    50   Output ~ 0
+AVG8
+Text GLabel 27000 22250 2    50   Output ~ 0
+AVG7
+Text GLabel 27000 22350 2    50   Output ~ 0
+AVG6
+Text GLabel 27000 22450 2    50   Output ~ 0
+AVG5
+Text GLabel 27000 22550 2    50   Output ~ 0
+AVG4
+Text GLabel 27000 22650 2    50   Output ~ 0
+AVG3
+Text GLabel 27000 22750 2    50   Output ~ 0
+AVG2
+Text GLabel 27000 22850 2    50   Output ~ 0
+AVG1
+Text GLabel 27000 22950 2    50   Output ~ 0
+AVG0
+Text GLabel 24800 24400 2    33   Output ~ 0
+~STROBE3
+Text GLabel 24800 24500 2    33   Output ~ 0
+~STROBE2
+Text GLabel 24800 24600 2    33   Output ~ 0
+~STROBE1
+Text GLabel 24800 24700 2    33   Output ~ 0
+~STROBE0
+Text GLabel 24800 24800 2    33   Output ~ 0
+~LATCH3
+Text GLabel 24800 24900 2    33   Output ~ 0
+~LATCH2
+Text GLabel 24800 25000 2    33   Output ~ 0
+~LATCH1
+Text GLabel 24800 25100 2    33   Output ~ 0
+~LATCH0
+$Comp
+L Star_Wars_Vector_PCB:AVG J9
+U 1 1 6160915B
+P 26250 22200
+F 0 "J9" H 26475 21050 60  0000 C CNN
+F 1 "AVG" H 26500 20950 60  0000 C CNN
+F 2 "" H 26150 22975 60  0001 C CNN
+F 3 "" H 26150 22975 60  0001 C CNN
+	1    26250 22200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	25500 22550 25500 22650
+Text GLabel 22825 23700 0    50   Input ~ 0
+ST2
+Wire Wire Line
+	24450 24500 24450 22900
+Wire Wire Line
+	25500 23000 24525 23000
+Wire Wire Line
+	24525 23000 24525 24600
+Wire Wire Line
+	25500 23100 24600 23100
+Wire Wire Line
+	24600 23100 24600 24700
+$Comp
+L Star_Wars_Vector_PCB:LS42 H7
+U 1 1 6160E754
+P 23650 24650
+F 0 "H7" H 23650 24700 50  0000 C CNN
+F 1 "LS42" H 23650 24600 50  0000 C CNN
+F 2 "" H 23650 24650 50  0001 C CNN
+F 3 "" H 23650 24650 50  0001 C CNN
+	1    23650 24650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	24450 22900 25500 22900
+Text GLabel 25500 22550 0    33   Input ~ 0
+~OP0
+Wire Wire Line
+	24300 24800 24800 24800
+Wire Wire Line
+	24300 24900 24800 24900
+Wire Wire Line
+	24300 25000 24800 25000
+Wire Wire Line
+	24300 25100 24800 25100
+Wire Wire Line
+	24300 24400 24800 24400
+$Comp
+L Star_Wars_Vector_PCB:LS32 R4
+U 5 1 61624260
+P 24425 20775
+F 0 "R4" H 24425 20825 50  0000 C CNN
+F 1 "LS32" H 24425 20725 50  0000 C CNN
+F 2 "" H 24425 20775 50  0001 C CNN
+F 3 "" H 24425 20775 50  0001 C CNN
+	5    24425 20775
+	1    0    0    -1  
+$EndComp
+$Comp
+L Star_Wars_Vector_PCB:LS04 J3
+U 6 1 61626E3E
+P 23625 20700
+F 0 "J3" H 23575 20750 50  0000 C CNN
+F 1 "LS04" H 23575 20675 50  0000 C CNN
+F 2 "" H 23625 20700 50  0001 C CNN
+F 3 "" H 23625 20700 50  0001 C CNN
+	6    23625 20700
+	1    0    0    -1  
+$EndComp
+Text GLabel 24225 20200 2    50   Output ~ 0
+SA
+Text GLabel 23000 20375 0    33   Input ~ 0
+~SA
+$Comp
+L Device:R_US R20
+U 1 1 61A38987
+P 23325 20375
+F 0 "R20" V 23120 20375 50  0000 C CNN
+F 1 "10K" V 23211 20375 50  0000 C CNN
+F 2 "" V 23365 20365 50  0001 C CNN
+F 3 "~" H 23325 20375 50  0001 C CNN
+	1    23325 20375
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	23000 20375 23175 20375
+Wire Wire Line
+	23175 20375 23175 20700
+Connection ~ 23175 20375
+Wire Wire Line
+	24225 20200 24075 20200
+Wire Wire Line
+	24075 20200 24075 20700
+Wire Wire Line
+	24775 20775 24775 22350
+$Comp
+L Star_Wars_Vector_PCB:LS08 L4
+U 5 1 61A46A93
+P 25125 23800
+F 0 "L4" H 25125 23850 50  0000 C CNN
+F 1 "LS08" H 25125 23775 50  0000 C CNN
+F 2 "" H 25125 23800 50  0001 C CNN
+F 3 "" H 25125 23800 50  0001 C CNN
+	5    25125 23800
+	1    0    0    -1  
+$EndComp
+Connection ~ 24075 20700
+Wire Wire Line
+	24800 23875 22950 23875
+Wire Wire Line
+	23175 20700 23200 22700
+Wire Wire Line
+	24800 22700 24800 23725
+Connection ~ 23175 20700
+Wire Wire Line
+	25500 23600 22850 23600
+Wire Wire Line
+	22850 23600 22850 24500
+Wire Wire Line
+	22850 24500 23000 24500
+Wire Wire Line
+	23200 22700 24800 22700
+Wire Wire Line
+	24775 22350 25500 22350
+Wire Wire Line
+	25500 23700 25500 23800
+Wire Wire Line
+	24300 24500 24450 24500
+Wire Wire Line
+	24300 24600 24525 24600
+Wire Wire Line
+	24300 24700 24600 24700
+Wire Wire Line
+	22950 23875 22950 24600
+Wire Wire Line
+	22950 24600 23000 24600
+Connection ~ 24450 24500
+Wire Wire Line
+	24450 24500 24800 24500
+Connection ~ 24525 24600
+Wire Wire Line
+	24525 24600 24800 24600
+Connection ~ 24600 24700
+Wire Wire Line
+	24600 24700 24800 24700
+$Comp
+L Star_Wars_Vector_PCB:LS32 R4
+U 6 1 61A6D005
+P 21300 25325
+F 0 "R4" H 21300 25375 50  0000 C CNN
+F 1 "LS32" H 21300 25275 50  0000 C CNN
+F 2 "" H 21300 25325 50  0001 C CNN
+F 3 "" H 21300 25325 50  0001 C CNN
+	6    21300 25325
+	1    0    0    -1  
+$EndComp
+$Comp
+L Star_Wars_Vector_PCB:LS74 U?
+U 2 1 61A9963A
+P 21700 24425
+F 0 "U?" H 21700 25181 50  0000 C CNN
+F 1 "LS74" H 21700 25090 50  0000 C CNN
+F 2 "" H 21725 24175 300 0001 C CNN
+F 3 "" H 21725 24175 300 0001 C CNN
+	2    21700 24425
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	21650 25325 21650 25000
+Wire Wire Line
+	22275 24500 22850 24500
+Connection ~ 22850 24500
+Wire Wire Line
+	24075 20200 20950 20200
+Wire Wire Line
+	20950 20200 20950 25250
+Connection ~ 24075 20200
+$Comp
+L Star_Wars_Vector_PCB:LS174A U?
+U 2 1 61AA6940
+P 23700 26475
+F 0 "U?" H 23700 27406 50  0000 C CNN
+F 1 "LS174A" H 23700 27315 50  0000 C CNN
+F 2 "" H 23700 26475 50  0001 C CNN
+F 3 "" H 23700 26475 50  0001 C CNN
+	2    23700 26475
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
