@@ -845,35 +845,21 @@ Wire Wire Line
 Text GLabel 19150 22675 2    50   Input ~ 0
 SACLK
 Wire Bus Line
-	24700 20325 24700 21575
-Wire Bus Line
-	24700 24225 25200 24225
-Wire Bus Line
 	27675 24225 27675 20325
-Wire Bus Line
-	27675 20325 24700 20325
 Wire Wire Line
 	24625 21325 24775 21325
 Text Notes 24750 20450 0    50   ~ 0
 Address Controller
 Wire Bus Line
-	24700 20325 22475 20325
-Wire Bus Line
 	22475 20325 22475 21575
 Wire Bus Line
 	22475 21575 24700 21575
-Connection ~ 24700 20325
-Connection ~ 24700 21575
-Wire Bus Line
-	24700 21575 24700 24000
 Text Notes 22525 20450 0    50   ~ 0
 Signature Analysis Flag
 Wire Bus Line
 	18850 21600 11625 21600
 Wire Bus Line
 	11625 21600 11625 24675
-Wire Bus Line
-	11625 24675 18850 24675
 Wire Bus Line
 	18850 21600 18850 24675
 Text Notes 11675 21725 0    50   ~ 0
@@ -882,46 +868,225 @@ Wire Bus Line
 	18850 21600 20500 21600
 Wire Bus Line
 	20500 21600 20500 23450
-Wire Bus Line
-	20500 24675 18850 24675
-Connection ~ 18850 21600
-Connection ~ 18850 24675
 Text Notes 18900 21725 0    50   ~ 0
 State Machine Clock
-Wire Bus Line
-	20500 24675 20500 25025
-Wire Bus Line
-	20500 25025 22425 25025
 Wire Bus Line
 	22425 25025 22900 24000
 Wire Bus Line
 	22900 24000 22900 23450
 Wire Bus Line
 	22900 23450 20500 23450
-Connection ~ 20500 24675
-Connection ~ 20500 23450
-Wire Bus Line
-	20500 23450 20500 24675
 Text Notes 20575 23575 0    50   ~ 0
 Decoder Disable
-Wire Bus Line
-	20500 25025 17500 25025
 Wire Bus Line
 	17500 25025 17500 30425
 Wire Bus Line
 	17500 30425 25200 30425
 Wire Bus Line
 	25200 30425 25200 24225
-Connection ~ 20500 25025
-Connection ~ 25200 24225
-Wire Bus Line
-	25200 24225 27675 24225
 Wire Bus Line
 	22900 24000 24700 24000
-Connection ~ 22900 24000
-Connection ~ 24700 24000
-Wire Bus Line
-	24700 24000 24700 24225
 Text Notes 17550 25150 0    50   ~ 0
 State Machine
+$Comp
+L star_wars_arcade_main_pcb:LS175E D6
+U 1 1 61A5F2BD
+P 19175 18275
+F 0 "D6" H 19175 18350 50  0000 C CNN
+F 1 "LS175E" H 19175 18250 50  0000 C CNN
+F 2 "" H 19175 18275 50  0001 C CNN
+F 3 "" H 19175 18275 50  0001 C CNN
+	1    19175 18275
+	1    0    0    -1  
+$EndComp
+$Comp
+L star_wars_arcade_main_pcb:LS175E C6
+U 1 1 61A60185
+P 19175 20125
+F 0 "C6" H 19175 20150 50  0000 C CNN
+F 1 "LS175E" H 19175 20050 50  0000 C CNN
+F 2 "" H 19175 20125 50  0001 C CNN
+F 3 "" H 19175 20125 50  0001 C CNN
+	1    19175 20125
+	1    0    0    -1  
+$EndComp
+Text GLabel 18700 17575 0    50   Input ~ 0
+~LATCH1
+Wire Wire Line
+	19025 17575 18700 17575
+Text GLabel 18700 19425 0    50   Input ~ 0
+~LATCH3
+Text GLabel 18700 20825 0    50   Input ~ 0
+~LATCH1
+Wire Wire Line
+	18700 19425 19025 19425
+Wire Wire Line
+	19025 20825 18700 20825
+Text GLabel 18300 19925 0    50   Input ~ 0
+DVY7
+Text GLabel 18300 20050 0    50   Input ~ 0
+DVY6
+Text GLabel 18300 20175 0    50   Input ~ 0
+DVY5
+Text GLabel 18300 20300 0    50   Input ~ 0
+DVY4
+Text GLabel 20125 18125 2    50   Output ~ 0
+OP1
+Text GLabel 20125 18425 2    33   Output ~ 0
+~OP0
+Text GLabel 20125 17925 2    50   Output ~ 0
+OP2
+Text GLabel 20125 18325 2    50   Output ~ 0
+OP0
+Text GLabel 20125 18025 2    33   Output ~ 0
+~OP2
+Text GLabel 20125 18225 2    33   Output ~ 0
+~OP1
+Text GLabel 20125 18525 2    50   Output ~ 0
+DVY12
+Text GLabel 20125 18625 2    33   Output ~ 0
+~DVY12
+Text GLabel 18300 18075 0    50   Input ~ 0
+DVY7
+Text GLabel 18300 18200 0    50   Input ~ 0
+DVY6
+Text GLabel 18300 18325 0    50   Input ~ 0
+DVY5
+Text GLabel 18300 18450 0    50   Input ~ 0
+DVY4
+Text GLabel 20125 19775 2    50   Output ~ 0
+Z2
+Text GLabel 20125 19975 2    50   Output ~ 0
+Z1
+Text GLabel 20125 20175 2    50   Output ~ 0
+Z0
+Text GLabel 20125 20475 2    33   Output ~ 0
+~DVX12
+Text GLabel 20125 20075 2    33   Output ~ 0
+~Z1
+Text GLabel 20125 19875 2    33   Output ~ 0
+~Z2
+Wire Bus Line
+	24700 24225 27675 24225
+Wire Bus Line
+	11625 24675 20500 24675
+Wire Bus Line
+	20500 23450 20500 25025
+Wire Bus Line
+	17500 25025 22425 25025
+Wire Bus Line
+	22475 20325 27675 20325
+Wire Bus Line
+	24700 20325 24700 24225
+Text Notes 17975 17350 0    50   ~ 0
+Op Code and\nIntensity\nLatches
+Wire Bus Line
+	17925 21000 17925 17050
+Text Label 18750 17575 0    50   Italic 0
+C794
+Wire Wire Line
+	18300 18075 18525 18075
+Wire Wire Line
+	18525 18200 18300 18200
+Wire Wire Line
+	18300 18325 18525 18325
+Wire Wire Line
+	18525 18450 18300 18450
+Wire Wire Line
+	19825 20475 20125 20475
+Wire Wire Line
+	20125 20375 19825 20375
+Wire Wire Line
+	20125 20175 19825 20175
+Wire Wire Line
+	19825 20075 20125 20075
+Wire Wire Line
+	20125 19975 19825 19975
+Wire Wire Line
+	19825 19875 20125 19875
+Wire Wire Line
+	20125 19775 19825 19775
+Wire Wire Line
+	19825 18625 20125 18625
+Wire Wire Line
+	20125 18525 19825 18525
+Wire Wire Line
+	19825 18425 20125 18425
+Wire Wire Line
+	20125 18325 19825 18325
+Wire Wire Line
+	19825 18225 20125 18225
+Wire Wire Line
+	19825 18125 20125 18125
+Wire Wire Line
+	20125 18025 19825 18025
+Wire Wire Line
+	19825 17925 20125 17925
+Text Label 18350 18075 0    50   Italic 0
+3CC1
+Text Label 18350 18200 0    50   Italic 0
+144P
+Text Label 18350 18325 0    50   Italic 0
+2406
+Text Label 18350 18450 0    50   Italic 0
+A88A
+Text Label 19825 17925 0    50   Italic 0
+OOPH
+Text Label 19825 18025 0    50   Italic 0
+8PC9
+Text Label 19825 18125 0    50   Italic 0
+U5C1
+Text Label 19825 18225 0    50   Italic 0
+7CP5
+Text Label 19825 18325 0    50   Italic 0
+6UUF
+Text Label 19825 18425 0    50   Italic 0
+PIA8
+Text Label 19825 18525 0    50   Italic 0
+4347
+Text Label 19825 18625 0    50   Italic 0
+FH13
+Text Label 19825 19775 0    50   Italic 0
+0482
+Text Label 19825 19875 0    50   Italic 0
+8AH6
+Text Label 19825 19975 0    50   Italic 0
+50H7
+Text Label 19825 20075 0    50   Italic 0
+HP83
+Text Label 19825 20175 0    50   Italic 0
+0482
+NoConn ~ 19825 20275
+Text Label 19825 20375 0    50   Italic 0
+CC14
+Text Label 19825 20475 0    50   Italic 0
+3540
+Wire Wire Line
+	18300 19925 18525 19925
+Wire Wire Line
+	18525 20050 18300 20050
+Wire Wire Line
+	18300 20175 18525 20175
+Wire Wire Line
+	18525 20300 18300 20300
+Text Label 18350 19925 0    50   Italic 0
+3CC1
+Text Label 18350 20050 0    50   Italic 0
+144P
+Text Label 18350 20175 0    50   Italic 0
+2406
+Text Label 18350 20300 0    50   Italic 0
+A88A
+Text Label 18750 19425 0    50   Italic 0
+1C91
+Text Label 18750 20825 0    50   Italic 0
+C794
+Wire Bus Line
+	17925 21000 20500 21000
+Wire Bus Line
+	17925 17050 20500 17050
+Wire Bus Line
+	20500 17050 20500 21000
+Text GLabel 20125 20375 2    50   Output ~ 0
+DVX12
 $EndSCHEMATC
