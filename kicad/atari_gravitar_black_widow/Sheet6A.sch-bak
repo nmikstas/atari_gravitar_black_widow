@@ -1,0 +1,1206 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 4
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text GLabel 7950 5175 0    33   Input ~ 0
+~LATCH1
+Wire Wire Line
+	8275 5175 7950 5175
+Text GLabel 7950 7025 0    33   Input ~ 0
+~LATCH3
+Text GLabel 7950 8425 0    33   Input ~ 0
+~LATCH1
+Wire Wire Line
+	7950 7025 8275 7025
+Wire Wire Line
+	8275 8425 7950 8425
+Text GLabel 9375 5725 2    50   Output ~ 0
+OP1
+Text GLabel 9375 6025 2    33   Output ~ 0
+~OP0
+Text GLabel 9375 5525 2    50   Output ~ 0
+OP2
+Text GLabel 9375 5925 2    50   Output ~ 0
+OP0
+Text GLabel 9375 5625 2    33   Output ~ 0
+~OP2
+Text GLabel 9375 5825 2    33   Output ~ 0
+~OP1
+Text GLabel 9375 6125 2    50   Output ~ 0
+DVY12
+Text GLabel 9375 6225 2    33   Output ~ 0
+~DVY12
+Text GLabel 7150 5675 0    50   Input ~ 0
+DVG7
+Text GLabel 7150 5800 0    50   Input ~ 0
+DVG6
+Text GLabel 7150 5925 0    50   Input ~ 0
+DVG5
+Text GLabel 7150 6050 0    50   Input ~ 0
+DVG4
+Text GLabel 9375 7375 2    50   Output ~ 0
+Z2
+Text GLabel 9375 7575 2    50   Output ~ 0
+Z1
+Text GLabel 9375 7775 2    50   Output ~ 0
+Z0
+Text GLabel 9375 8075 2    33   Output ~ 0
+~DVX12
+Text GLabel 9375 7675 2    33   Output ~ 0
+~Z1
+Text GLabel 9375 7475 2    33   Output ~ 0
+~Z2
+Text Notes 7750 5050 0    100  ~ 20
+OP CODE AND\nINTENSITY LATCHES
+Wire Wire Line
+	9075 8075 9375 8075
+Wire Wire Line
+	9375 7975 9075 7975
+Wire Wire Line
+	9375 7775 9075 7775
+Wire Wire Line
+	9075 7675 9375 7675
+Wire Wire Line
+	9375 7575 9075 7575
+Wire Wire Line
+	9075 7475 9375 7475
+Wire Wire Line
+	9375 7375 9075 7375
+Wire Wire Line
+	9075 6225 9375 6225
+Wire Wire Line
+	9375 6125 9075 6125
+Wire Wire Line
+	9075 6025 9375 6025
+Wire Wire Line
+	9375 5925 9075 5925
+Wire Wire Line
+	9075 5825 9375 5825
+Wire Wire Line
+	9075 5725 9375 5725
+Wire Wire Line
+	9375 5625 9075 5625
+Wire Wire Line
+	9075 5525 9375 5525
+NoConn ~ 9075 7875
+Text GLabel 9375 7975 2    50   Output ~ 0
+DVX12
+Wire Wire Line
+	4875 10950 4875 10850
+Wire Wire Line
+	4875 10850 5775 10850
+Wire Wire Line
+	5775 10850 5775 8875
+Wire Wire Line
+	5775 1150 4875 1150
+Wire Wire Line
+	4875 2950 5775 2950
+Connection ~ 5775 2950
+Wire Wire Line
+	4875 4950 5775 4950
+Wire Wire Line
+	4875 7050 4875 6950
+Wire Wire Line
+	4875 6950 5775 6950
+Wire Wire Line
+	4875 8975 4875 8875
+Wire Wire Line
+	4875 8875 5775 8875
+Connection ~ 5775 8875
+Wire Wire Line
+	5775 8875 5775 6950
+Wire Wire Line
+	4675 12450 4675 12550
+Wire Wire Line
+	4675 12550 5675 12550
+Wire Wire Line
+	5675 12550 5675 9875
+Wire Wire Line
+	5675 9875 5475 9875
+Wire Wire Line
+	4675 10475 4675 10550
+Wire Wire Line
+	4675 6550 4675 6650
+Wire Wire Line
+	4675 6650 5575 6650
+Wire Wire Line
+	5575 6650 5575 3950
+Wire Wire Line
+	5575 3950 5475 3950
+Wire Wire Line
+	4675 4550 4675 4650
+Wire Wire Line
+	4675 4650 5675 4650
+Wire Wire Line
+	4875 2650 4875 2850
+Wire Wire Line
+	4875 2850 3925 2850
+Wire Wire Line
+	3925 2850 3925 4850
+Wire Wire Line
+	3925 4850 4875 4850
+Wire Wire Line
+	4875 4850 4875 4550
+Wire Wire Line
+	3925 6850 4875 6850
+Wire Wire Line
+	4875 6850 4875 6550
+Wire Wire Line
+	3925 6850 3925 8775
+Wire Wire Line
+	3925 8775 4875 8775
+Wire Wire Line
+	4875 8775 4875 8550
+Wire Wire Line
+	3925 8775 3925 10750
+Wire Wire Line
+	3925 10750 4875 10750
+Wire Wire Line
+	4875 10750 4875 10475
+Connection ~ 3925 8775
+Wire Wire Line
+	3925 10750 3925 12775
+Wire Wire Line
+	3925 12775 4875 12775
+Wire Wire Line
+	4875 12775 4875 12450
+Wire Wire Line
+	4775 12450 4775 12650
+Wire Wire Line
+	4775 12650 3825 12650
+Wire Wire Line
+	3925 12775 1175 12775
+Connection ~ 3925 12775
+Wire Wire Line
+	3825 12650 3825 10650
+Wire Wire Line
+	3825 10650 4775 10650
+Wire Wire Line
+	4775 10650 4775 10475
+Wire Wire Line
+	3825 10650 3825 8675
+Wire Wire Line
+	3825 8675 4775 8675
+Wire Wire Line
+	4775 8675 4775 8550
+Wire Wire Line
+	3825 8675 3825 6750
+Wire Wire Line
+	3825 6750 4775 6750
+Connection ~ 3825 8675
+Wire Wire Line
+	4775 4750 4775 4550
+Wire Wire Line
+	3825 2750 4775 2750
+Wire Wire Line
+	4775 2750 4775 2650
+Text GLabel 1175 12650 0    50   Input ~ 0
+12MHZ
+Text GLabel 1175 12775 0    50   Input ~ 0
+~LATCH1
+Text GLabel 6050 1750 2    50   Output ~ 0
+DVY0
+Text GLabel 6050 1850 2    50   Output ~ 0
+DVY1
+Text GLabel 6050 1950 2    50   Output ~ 0
+DVY2
+Text GLabel 6050 2050 2    50   Output ~ 0
+DVY3
+Wire Wire Line
+	5475 1750 6050 1750
+Wire Wire Line
+	6050 1850 5475 1850
+Wire Wire Line
+	5475 1950 6050 1950
+Text GLabel 6050 3650 2    50   Output ~ 0
+DVY4
+Text GLabel 6050 3750 2    50   Output ~ 0
+DVY5
+Text GLabel 6050 3850 2    50   Output ~ 0
+DVY6
+Text GLabel 6050 3950 2    50   Output ~ 0
+DVY7
+Wire Wire Line
+	5475 3650 6050 3650
+Wire Wire Line
+	6050 3750 5475 3750
+Wire Wire Line
+	5475 3850 6050 3850
+Wire Wire Line
+	6050 3950 5575 3950
+Connection ~ 5575 3950
+Text GLabel 6050 5650 2    50   Output ~ 0
+DVY8
+Text GLabel 6050 5750 2    50   Output ~ 0
+DVY9
+Text GLabel 6050 5850 2    50   Output ~ 0
+DVY10
+Text GLabel 6050 5950 2    50   Output ~ 0
+DVY11
+Wire Wire Line
+	5475 5650 6050 5650
+Wire Wire Line
+	6050 5750 5475 5750
+Wire Wire Line
+	5475 5850 6050 5850
+Wire Wire Line
+	6050 5950 5475 5950
+Text GLabel 6050 7950 2    50   Output ~ 0
+DVX3
+Text GLabel 6050 9575 2    50   Output ~ 0
+DVX4
+Text GLabel 6050 9675 2    50   Output ~ 0
+DVX5
+Text GLabel 6050 9775 2    50   Output ~ 0
+DVX6
+Text GLabel 6050 9875 2    50   Output ~ 0
+DVX7
+Wire Wire Line
+	6050 9575 5475 9575
+Wire Wire Line
+	5475 9675 6050 9675
+Wire Wire Line
+	6050 9775 5475 9775
+Wire Wire Line
+	5675 9875 6050 9875
+Connection ~ 5675 9875
+Text GLabel 6050 11550 2    50   Output ~ 0
+DVX8
+Text GLabel 6050 11650 2    50   Output ~ 0
+DVX9
+Text GLabel 6050 11750 2    50   Output ~ 0
+DVX10
+Text GLabel 6050 11850 2    50   Output ~ 0
+DVX11
+Wire Wire Line
+	5475 11550 6050 11550
+Wire Wire Line
+	6050 11650 5475 11650
+Wire Wire Line
+	5475 11750 6050 11750
+Wire Wire Line
+	6050 11850 5475 11850
+Text GLabel 1175 3950 0    50   Input ~ 0
+DVG7
+Text GLabel 1175 3850 0    50   Input ~ 0
+DVG6
+Text GLabel 1175 3750 0    50   Input ~ 0
+DVG5
+Text GLabel 1175 3650 0    50   Input ~ 0
+DVG4
+Wire Wire Line
+	1175 3650 1975 3650
+Wire Wire Line
+	4075 3750 1900 3750
+Wire Wire Line
+	1175 3850 1825 3850
+Wire Wire Line
+	4075 3950 1750 3950
+Text GLabel 1175 2050 0    50   Input ~ 0
+DVG3
+Text GLabel 1175 1950 0    50   Input ~ 0
+DVG2
+Text GLabel 1175 1850 0    50   Input ~ 0
+DVG1
+Text GLabel 1175 1750 0    50   Input ~ 0
+DVG0
+Wire Wire Line
+	2325 1450 2325 1150
+Wire Wire Line
+	2325 1450 1175 1450
+Text GLabel 1175 1450 0    50   Input ~ 0
+~LATCH0
+Wire Wire Line
+	2525 1150 2325 1150
+Text GLabel 1175 950  0    50   Input ~ 0
+~ENORM
+Wire Wire Line
+	2325 5350 2325 5050
+Wire Wire Line
+	2325 5350 1175 5350
+Wire Wire Line
+	2500 5050 2325 5050
+Wire Wire Line
+	2175 4850 2500 4850
+Text GLabel 1175 5350 0    50   Input ~ 0
+~LATCH1
+Wire Wire Line
+	2500 7050 2325 7050
+Wire Wire Line
+	2325 7050 2325 7350
+Wire Wire Line
+	2500 6850 2175 6850
+Wire Wire Line
+	2325 7350 1175 7350
+Text GLabel 1175 7350 0    50   Input ~ 0
+~LATCH2
+Wire Wire Line
+	2475 10950 2300 10950
+Wire Wire Line
+	2300 10950 2300 11250
+Wire Wire Line
+	2475 10750 2175 10750
+Wire Wire Line
+	2175 10750 2175 6850
+Text GLabel 1175 11250 0    50   Input ~ 0
+~LATCH3
+Wire Wire Line
+	1175 11250 2300 11250
+Wire Wire Line
+	4775 10950 4775 10850
+Wire Wire Line
+	4775 10850 3675 10850
+Wire Wire Line
+	4675 10950 4200 10950
+Wire Wire Line
+	4200 10950 4200 11250
+Wire Wire Line
+	4200 11250 3200 11250
+Connection ~ 3825 10650
+Connection ~ 3925 10750
+Wire Wire Line
+	4775 8975 4775 8875
+Wire Wire Line
+	4775 6950 3725 6950
+Wire Wire Line
+	4675 7050 4200 7050
+Wire Wire Line
+	3625 7350 3225 7350
+Wire Wire Line
+	4675 10550 5575 10550
+Wire Wire Line
+	4775 7050 4775 6950
+Wire Wire Line
+	4675 5050 3625 5050
+Wire Wire Line
+	3625 5350 3225 5350
+Wire Wire Line
+	4875 5050 4875 4950
+Connection ~ 3825 6750
+Connection ~ 3925 6850
+Wire Wire Line
+	4775 6750 4775 6550
+Connection ~ 5775 6950
+Wire Wire Line
+	3825 2750 3825 4750
+Wire Wire Line
+	4775 4750 3825 4750
+Wire Wire Line
+	4775 1150 4775 1050
+Wire Wire Line
+	3625 5050 3625 5350
+Wire Wire Line
+	4675 1150 4200 1150
+Wire Wire Line
+	3625 1450 3225 1450
+Wire Wire Line
+	1175 950  2175 950 
+Connection ~ 2175 6850
+Connection ~ 2175 950 
+Wire Wire Line
+	2175 950  2525 950 
+Wire Wire Line
+	3700 4950 4775 4950
+Wire Wire Line
+	4775 4950 4775 5050
+Connection ~ 3925 4850
+Connection ~ 3825 4750
+Connection ~ 5775 4950
+Connection ~ 2175 4850
+Wire Wire Line
+	4775 1050 3725 1050
+Wire Wire Line
+	4775 2950 3725 2950
+Wire Wire Line
+	3725 2950 3725 1050
+Wire Wire Line
+	5775 2950 5775 1150
+Wire Wire Line
+	5775 2950 5775 4950
+Wire Wire Line
+	4675 3050 3625 3050
+Wire Wire Line
+	3625 3050 3625 1450
+Wire Wire Line
+	4775 3050 4775 2950
+Wire Wire Line
+	4875 3050 4875 2950
+Wire Wire Line
+	2175 4850 2175 950 
+Wire Wire Line
+	5675 4650 5675 2050
+Wire Wire Line
+	2175 4850 2175 6850
+Wire Wire Line
+	3925 4850 3925 6850
+Wire Wire Line
+	3825 4750 3825 6750
+Wire Wire Line
+	5775 4950 5775 6950
+Wire Wire Line
+	4075 2050 1450 2050
+Wire Wire Line
+	1175 1950 1525 1950
+Wire Wire Line
+	4075 1850 1600 1850
+Wire Wire Line
+	1175 1750 1675 1750
+Wire Wire Line
+	3625 1450 4200 1450
+Wire Wire Line
+	4200 1450 4200 1150
+Connection ~ 3625 1450
+Wire Wire Line
+	4775 8875 3725 8875
+Wire Wire Line
+	3725 8875 3725 6950
+Connection ~ 3725 6950
+Wire Wire Line
+	3725 6950 3700 6950
+Wire Wire Line
+	4675 8975 3625 8975
+Wire Wire Line
+	3625 8975 3625 7350
+Wire Wire Line
+	3625 7350 4200 7350
+Wire Wire Line
+	4200 7350 4200 7050
+Connection ~ 3625 7350
+$Comp
+L atari_grav_bw:LS194A F_?
+U 1 1 6B23F527
+P 4775 2200
+F 0 "F_?" H 4725 2550 50  0000 L CNN
+F 1 "LS194A" H 4675 2450 50  0000 L CNN
+F 2 "" H 4775 2200 50  0001 C CNN
+F 3 "" H 4775 2200 50  0001 C CNN
+	1    4775 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 6B23F52D
+P 4975 2350
+F 0 "#PWR?" H 4975 2100 50  0001 C CNN
+F 1 "GND" H 4980 2177 50  0000 C CNN
+F 2 "" H 4975 2350 50  0001 C CNN
+F 3 "" H 4975 2350 50  0001 C CNN
+	1    4975 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 6B23F533
+P 4975 1450
+F 0 "#PWR?" H 4975 1300 50  0001 C CNN
+F 1 "+5V" H 4990 1623 50  0000 C CNN
+F 2 "" H 4975 1450 50  0001 C CNN
+F 3 "" H 4975 1450 50  0001 C CNN
+	1    4975 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 6B23F539
+P 4675 2650
+F 0 "#PWR?" H 4675 2400 50  0001 C CNN
+F 1 "GND" V 4680 2522 50  0000 R CNN
+F 2 "" H 4675 2650 50  0001 C CNN
+F 3 "" H 4675 2650 50  0001 C CNN
+	1    4675 2650
+	0    1    1    0   
+$EndComp
+$Comp
+L atari_grav_bw:LS194A J_?
+U 1 1 6B23F53F
+P 4775 4100
+F 0 "J_?" H 4700 4475 50  0000 L CNN
+F 1 "LS194A" H 4650 4350 50  0000 L CNN
+F 2 "" H 4775 4100 50  0001 C CNN
+F 3 "" H 4775 4100 50  0001 C CNN
+	1    4775 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 6B23F545
+P 4975 4250
+F 0 "#PWR?" H 4975 4000 50  0001 C CNN
+F 1 "GND" H 4980 4077 50  0000 C CNN
+F 2 "" H 4975 4250 50  0001 C CNN
+F 3 "" H 4975 4250 50  0001 C CNN
+	1    4975 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 6B23F54B
+P 4975 3350
+F 0 "#PWR?" H 4975 3200 50  0001 C CNN
+F 1 "+5V" H 4990 3523 50  0000 C CNN
+F 2 "" H 4975 3350 50  0001 C CNN
+F 3 "" H 4975 3350 50  0001 C CNN
+	1    4975 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L atari_grav_bw:LS194A H_?
+U 1 1 6B23F551
+P 4775 6100
+F 0 "H_?" H 4675 6450 50  0000 L CNN
+F 1 "LS194A" H 4650 6350 50  0000 L CNN
+F 2 "" H 4775 6100 50  0001 C CNN
+F 3 "" H 4775 6100 50  0001 C CNN
+	1    4775 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 6B23F557
+P 4975 5350
+F 0 "#PWR?" H 4975 5200 50  0001 C CNN
+F 1 "+5V" H 4990 5523 50  0000 C CNN
+F 2 "" H 4975 5350 50  0001 C CNN
+F 3 "" H 4975 5350 50  0001 C CNN
+	1    4975 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 6B23F55D
+P 4975 6250
+F 0 "#PWR?" H 4975 6000 50  0001 C CNN
+F 1 "GND" H 4980 6077 50  0000 C CNN
+F 2 "" H 4975 6250 50  0001 C CNN
+F 3 "" H 4975 6250 50  0001 C CNN
+	1    4975 6250
+	1    0    0    -1  
+$EndComp
+Text Notes 5825 1750 0    50   ~ 0
+4HPH
+Text Notes 5825 1850 0    50   ~ 0
+6682
+Text Notes 5825 1950 0    50   ~ 0
+3F47
+Text Notes 5825 2050 0    50   ~ 0
+068C
+Text Notes 1200 950  0    50   ~ 0
+8P54
+Text Notes 1200 1450 0    50   ~ 0
+8834
+Text Notes 1200 1750 0    50   ~ 0
+1AHC
+Text Notes 1200 1850 0    50   ~ 0
+947P
+Text Notes 1200 1950 0    50   ~ 0
+HP50
+Text Notes 1200 2050 0    50   ~ 0
+9C3C
+$Comp
+L atari_grav_bw:LS00 E_?
+U 1 2 6B23F56D
+P 3125 1050
+F 0 "E_?" H 3075 1100 50  0000 L CNN
+F 1 "S00" H 3075 1000 50  0000 L CNN
+F 2 "" H 3125 1050 50  0001 C CNN
+F 3 "" H 3125 1050 50  0001 C CNN
+	1    3125 1050
+	1    0    0    -1  
+$EndComp
+Connection ~ 3725 1050
+Text GLabel 4875 1050 1    50   Input ~ 0
+PR82
+Wire Wire Line
+	4875 1050 4875 1150
+Connection ~ 4875 1150
+$Comp
+L power:GND #PWR?
+U 1 1 6B23F577
+P 2975 1250
+F 0 "#PWR?" H 2975 1000 50  0001 C CNN
+F 1 "GND" H 3100 1175 50  0000 C CNN
+F 2 "" H 2975 1250 50  0001 C CNN
+F 3 "" H 2975 1250 50  0001 C CNN
+	1    2975 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 6B23F57D
+P 2975 850
+F 0 "#PWR?" H 2975 700 50  0001 C CNN
+F 1 "+5V" H 3100 900 50  0000 C CNN
+F 2 "" H 2975 850 50  0001 C CNN
+F 3 "" H 2975 850 50  0001 C CNN
+	1    2975 850 
+	1    0    0    -1  
+$EndComp
+$Comp
+L atari_grav_bw:LS14 F_?
+U 6 1 6B23F583
+P 2775 1450
+F 0 "F_?" H 2525 1325 50  0000 C CNN
+F 1 "LS14" H 2525 1400 50  0000 C CNN
+F 2 "" H 2875 1450 50  0001 C CNN
+F 3 "" H 2875 1450 50  0001 C CNN
+	6    2775 1450
+	1    0    0    -1  
+$EndComp
+Connection ~ 2325 1450
+Text Notes 3975 1750 0    50   ~ 0
+1AHC
+Text Notes 3975 1850 0    50   ~ 0
+947P
+Text Notes 3975 1950 0    50   ~ 0
+HP50
+Text Notes 3975 2050 0    50   ~ 0
+9C3C
+Connection ~ 3825 12650
+Wire Wire Line
+	1175 12650 3825 12650
+$Comp
+L power:GND #PWR?
+U 1 1 6B23F590
+P 4675 8550
+F 0 "#PWR?" H 4675 8300 50  0001 C CNN
+F 1 "GND" V 4680 8422 50  0000 R CNN
+F 2 "" H 4675 8550 50  0001 C CNN
+F 3 "" H 4675 8550 50  0001 C CNN
+	1    4675 8550
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 6B23F596
+P 4975 8250
+F 0 "#PWR?" H 4975 8000 50  0001 C CNN
+F 1 "GND" H 4980 8077 50  0000 C CNN
+F 2 "" H 4975 8250 50  0001 C CNN
+F 3 "" H 4975 8250 50  0001 C CNN
+	1    4975 8250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 6B23F59C
+P 4975 7350
+F 0 "#PWR?" H 4975 7200 50  0001 C CNN
+F 1 "+5V" H 4990 7523 50  0000 C CNN
+F 2 "" H 4975 7350 50  0001 C CNN
+F 3 "" H 4975 7350 50  0001 C CNN
+	1    4975 7350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6050 2050 5675 2050
+Connection ~ 5675 2050
+Wire Wire Line
+	5675 2050 5475 2050
+$Comp
+L atari_grav_bw:LS194A A_?
+U 1 1 6B23F5A5
+P 4775 8100
+F 0 "A_?" H 4700 8450 50  0000 L CNN
+F 1 "LS194A" H 4650 8350 50  0000 L CNN
+F 2 "" H 4775 8100 50  0001 C CNN
+F 3 "" H 4775 8100 50  0001 C CNN
+	1    4775 8100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5475 7950 5575 7950
+Wire Wire Line
+	5575 10550 5575 7950
+Connection ~ 5575 7950
+Wire Wire Line
+	5575 7950 6050 7950
+NoConn ~ 5475 7650
+NoConn ~ 5475 7750
+NoConn ~ 5475 7850
+$Comp
+L atari_grav_bw:LS194A C_?
+U 1 1 6B23F5B2
+P 4775 10025
+F 0 "C_?" H 4725 10400 50  0000 L CNN
+F 1 "LS194A" H 4650 10300 50  0000 L CNN
+F 2 "" H 4775 10025 50  0001 C CNN
+F 3 "" H 4775 10025 50  0001 C CNN
+	1    4775 10025
+	1    0    0    -1  
+$EndComp
+$Comp
+L atari_grav_bw:LS194A B_?
+U 1 1 6B23F5B8
+P 4775 12000
+F 0 "B_?" H 4725 12400 50  0000 L CNN
+F 1 "LS194A" H 4625 12300 50  0000 L CNN
+F 2 "" H 4775 12000 50  0001 C CNN
+F 3 "" H 4775 12000 50  0001 C CNN
+	1    4775 12000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 6B23F5BE
+P 4975 11250
+F 0 "#PWR?" H 4975 11100 50  0001 C CNN
+F 1 "+5V" H 4990 11423 50  0000 C CNN
+F 2 "" H 4975 11250 50  0001 C CNN
+F 3 "" H 4975 11250 50  0001 C CNN
+	1    4975 11250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 6B23F5C4
+P 4975 9275
+F 0 "#PWR?" H 4975 9125 50  0001 C CNN
+F 1 "+5V" H 4990 9448 50  0000 C CNN
+F 2 "" H 4975 9275 50  0001 C CNN
+F 3 "" H 4975 9275 50  0001 C CNN
+	1    4975 9275
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 6B23F5CA
+P 4975 10175
+F 0 "#PWR?" H 4975 9925 50  0001 C CNN
+F 1 "GND" H 4980 10002 50  0000 C CNN
+F 2 "" H 4975 10175 50  0001 C CNN
+F 3 "" H 4975 10175 50  0001 C CNN
+	1    4975 10175
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 6B23F5D0
+P 4975 12150
+F 0 "#PWR?" H 4975 11900 50  0001 C CNN
+F 1 "GND" H 4980 11977 50  0000 C CNN
+F 2 "" H 4975 12150 50  0001 C CNN
+F 3 "" H 4975 12150 50  0001 C CNN
+	1    4975 12150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1450 2050 1450 5950
+Wire Wire Line
+	1450 5950 4075 5950
+Connection ~ 1450 2050
+Wire Wire Line
+	1450 2050 1175 2050
+Wire Wire Line
+	1525 1950 1525 5850
+Wire Wire Line
+	1525 5850 4075 5850
+Connection ~ 1525 1950
+Wire Wire Line
+	1525 1950 4075 1950
+Wire Wire Line
+	1600 1850 1600 5750
+Wire Wire Line
+	1600 5750 4075 5750
+Connection ~ 1600 1850
+Wire Wire Line
+	1600 1850 1175 1850
+Wire Wire Line
+	4075 5650 1675 5650
+Wire Wire Line
+	1675 5650 1675 1750
+Connection ~ 1675 1750
+Wire Wire Line
+	1675 1750 4075 1750
+Connection ~ 1750 3950
+Wire Wire Line
+	1750 3950 1175 3950
+Connection ~ 1825 3850
+Wire Wire Line
+	1825 3850 4075 3850
+Connection ~ 1900 3750
+Wire Wire Line
+	1900 3750 1175 3750
+Connection ~ 1975 3650
+Wire Wire Line
+	1975 3650 4075 3650
+Wire Wire Line
+	1975 9575 4075 9575
+Wire Wire Line
+	1975 3650 1975 9575
+Wire Wire Line
+	1900 9675 4075 9675
+Wire Wire Line
+	1900 3750 1900 9675
+Wire Wire Line
+	4075 9775 1825 9775
+Wire Wire Line
+	1825 3850 1825 9775
+Wire Wire Line
+	1750 9875 4075 9875
+Wire Wire Line
+	1750 3950 1750 9875
+Wire Wire Line
+	4075 7650 1675 7650
+Wire Wire Line
+	1675 7650 1675 5650
+Connection ~ 1675 5650
+Wire Wire Line
+	1600 5750 1600 7750
+Wire Wire Line
+	1600 7750 4075 7750
+Connection ~ 1600 5750
+Wire Wire Line
+	4075 7850 1525 7850
+Wire Wire Line
+	1525 7850 1525 5850
+Connection ~ 1525 5850
+Wire Wire Line
+	1450 5950 1450 7950
+Wire Wire Line
+	1450 7950 4075 7950
+Connection ~ 1450 5950
+Wire Wire Line
+	1675 7650 1675 11550
+Wire Wire Line
+	1675 11550 4075 11550
+Connection ~ 1675 7650
+Wire Wire Line
+	1600 7750 1600 11650
+Wire Wire Line
+	1600 11650 4075 11650
+Connection ~ 1600 7750
+Wire Wire Line
+	1525 7850 1525 11750
+Wire Wire Line
+	1525 11750 4075 11750
+Connection ~ 1525 7850
+Wire Wire Line
+	1450 7950 1450 11850
+Wire Wire Line
+	1450 11850 4075 11850
+Connection ~ 1450 7950
+$Comp
+L atari_grav_bw:LS00 E_?
+U 2 2 6B23F60E
+P 3100 4950
+F 0 "E_?" H 3100 4925 50  0000 C CNN
+F 1 "S00" H 3100 5000 50  0000 C CNN
+F 2 "" H 3100 4950 50  0001 C CNN
+F 3 "" H 3100 4950 50  0001 C CNN
+	2    3100 4950
+	1    0    0    1   
+$EndComp
+$Comp
+L atari_grav_bw:LS14 F_?
+U 1 1 6B23F614
+P 2775 5350
+F 0 "F_?" H 2525 5300 50  0000 C CNN
+F 1 "LS14" H 3100 5300 50  0000 C CNN
+F 2 "" H 2875 5350 50  0001 C CNN
+F 3 "" H 2875 5350 50  0001 C CNN
+	1    2775 5350
+	1    0    0    -1  
+$EndComp
+Connection ~ 2325 5350
+$Comp
+L power:GND #PWR?
+U 1 1 6B23F61B
+P 2725 5450
+F 0 "#PWR?" H 2725 5200 50  0001 C CNN
+F 1 "GND" H 2850 5425 50  0000 C CNN
+F 2 "" H 2725 5450 50  0001 C CNN
+F 3 "" H 2725 5450 50  0001 C CNN
+	1    2725 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 6B23F621
+P 2725 5250
+F 0 "#PWR?" H 2725 5100 50  0001 C CNN
+F 1 "+5V" H 2800 5275 50  0000 C CNN
+F 2 "" H 2725 5250 50  0001 C CNN
+F 3 "" H 2725 5250 50  0001 C CNN
+	1    2725 5250
+	1    0    0    -1  
+$EndComp
+$Comp
+L atari_grav_bw:LS00 E_?
+U 4 2 6B23F627
+P 3100 6950
+F 0 "E_?" H 3100 6900 50  0000 C CNN
+F 1 "S00" H 3100 6975 50  0000 C CNN
+F 2 "" H 3100 6950 50  0001 C CNN
+F 3 "" H 3100 6950 50  0001 C CNN
+	4    3100 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L atari_grav_bw:LS14 F_?
+U 5 1 6B23F62D
+P 2775 7350
+F 0 "F_?" H 2500 7275 50  0000 C CNN
+F 1 "LS14" H 2975 7275 50  0000 C CNN
+F 2 "" H 2875 7350 50  0001 C CNN
+F 3 "" H 2875 7350 50  0001 C CNN
+	5    2775 7350
+	1    0    0    -1  
+$EndComp
+Connection ~ 2325 7350
+$Comp
+L atari_grav_bw:LS14 F_?
+U 4 1 6B23F634
+P 2750 11250
+F 0 "F_?" H 2475 11175 50  0000 C CNN
+F 1 "LS14" H 2925 11175 50  0000 C CNN
+F 2 "" H 2850 11250 50  0001 C CNN
+F 3 "" H 2850 11250 50  0001 C CNN
+	4    2750 11250
+	1    0    0    -1  
+$EndComp
+Connection ~ 2300 11250
+$Comp
+L atari_grav_bw:LS00 E_?
+U 3 2 6B23F63B
+P 3075 10850
+F 0 "E_?" H 3075 10900 50  0000 C CNN
+F 1 "S00" H 3075 10800 50  0000 C CNN
+F 2 "" H 3075 10850 50  0001 C CNN
+F 3 "" H 3075 10850 50  0001 C CNN
+	3    3075 10850
+	1    0    0    -1  
+$EndComp
+Text Notes 1200 12650 0    50   ~ 0
+0000
+Text Notes 1200 12775 0    50   ~ 0
+C794
+Text Notes 1200 11250 0    50   ~ 0
+1C91
+Text Notes 1200 7350 0    50   ~ 0
+79P4
+Text Notes 1200 5350 0    50   ~ 0
+C794
+Text Notes 1200 3650 0    50   ~ 0
+A88A
+Text Notes 1200 3750 0    50   ~ 0
+2406
+Text Notes 1200 3850 0    50   ~ 0
+144P
+Text Notes 1200 3950 0    50   ~ 0
+3CC1
+Text Notes 3800 1050 0    50   ~ 0
+0660
+Text Notes 3800 1450 0    50   ~ 0
+0660
+Text Notes 5825 3650 0    50   ~ 0
+1H6F
+Text Notes 5825 3750 0    50   ~ 0
+0H0H
+Text Notes 5825 3850 0    50   ~ 0
+A262
+Text Notes 5825 3950 0    50   ~ 0
+6608
+Text Notes 5825 5650 0    50   ~ 0
+F580
+Text Notes 5825 5750 0    50   ~ 0
+PA7F
+Text Notes 5825 5850 0    50   ~ 0
+H2P1
+Text Notes 5825 5950 0    50   ~ 0
+389H
+Text Notes 5825 7950 0    50   ~ 0
+2A56
+Text Notes 5825 9575 0    50   ~ 0
+95F0
+Text Notes 5825 9675 0    50   ~ 0
+95F0
+Text Notes 5825 9775 0    50   ~ 0
+2A56
+Text Notes 5825 9875 0    50   ~ 0
+CU96
+Text Notes 5825 11550 0    50   ~ 0
+08V7
+Text Notes 5825 11650 0    50   ~ 0
+FH3H
+Text Notes 5825 11750 0    50   ~ 0
+F5FA
+Text Notes 5825 11850 0    50   ~ 0
+0FAH
+Text Notes 1775 12325 0    100  ~ 20
+VECTOR DATA SHIFTERS
+Wire Notes Line
+	6450 12925 6450 675 
+Wire Notes Line
+	6450 675  675  675 
+Wire Notes Line
+	675  675  675  12925
+Wire Notes Line
+	675  12925 6450 12925
+Text GLabel 8275 6575 3    50   Input ~ 0
+PR82
+$Comp
+L power:+5V #PWR?
+U 1 1 6B23F663
+P 8575 5375
+F 0 "#PWR?" H 8575 5225 50  0001 C CNN
+F 1 "+5V" H 8590 5548 50  0000 C CNN
+F 2 "" H 8575 5375 50  0001 C CNN
+F 3 "" H 8575 5375 50  0001 C CNN
+	1    8575 5375
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 6B23F669
+P 8575 6375
+F 0 "#PWR?" H 8575 6125 50  0001 C CNN
+F 1 "GND" H 8580 6202 50  0000 C CNN
+F 2 "" H 8575 6375 50  0001 C CNN
+F 3 "" H 8575 6375 50  0001 C CNN
+	1    8575 6375
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 6B23F66F
+P 8575 8225
+F 0 "#PWR?" H 8575 7975 50  0001 C CNN
+F 1 "GND" H 8580 8052 50  0000 C CNN
+F 2 "" H 8575 8225 50  0001 C CNN
+F 3 "" H 8575 8225 50  0001 C CNN
+	1    8575 8225
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 6B23F675
+P 8575 7225
+F 0 "#PWR?" H 8575 7075 50  0001 C CNN
+F 1 "+5V" H 8590 7398 50  0000 C CNN
+F 2 "" H 8575 7225 50  0001 C CNN
+F 3 "" H 8575 7225 50  0001 C CNN
+	1    8575 7225
+	1    0    0    -1  
+$EndComp
+$Comp
+L atari_grav_bw:LS175A D_?
+U 1 1 6B23F67B
+P 8425 5875
+F 0 "D_?" H 8425 5950 50  0000 C CNN
+F 1 "LS175A" H 8425 5825 50  0000 C CNN
+F 2 "" H 8425 5875 50  0001 C CNN
+F 3 "" H 8425 5875 50  0001 C CNN
+	1    8425 5875
+	1    0    0    -1  
+$EndComp
+$Comp
+L atari_grav_bw:LS175A C_?
+U 1 1 6B23F681
+P 8425 7725
+F 0 "C_?" H 8425 7800 50  0000 C CNN
+F 1 "LS175A" H 8425 7675 50  0000 C CNN
+F 2 "" H 8425 7725 50  0001 C CNN
+F 3 "" H 8425 7725 50  0001 C CNN
+	1    8425 7725
+	1    0    0    -1  
+$EndComp
+Wire Notes Line
+	6750 4675 9725 4675
+Wire Notes Line
+	9725 4675 9725 8575
+Wire Notes Line
+	9725 8575 6750 8575
+Wire Notes Line
+	6750 8575 6750 4675
+Text Notes 8000 7025 0    50   ~ 0
+1C91
+Text Notes 8000 5175 0    50   ~ 0
+C794
+Wire Wire Line
+	7150 6050 7225 6050
+Wire Wire Line
+	7150 5925 7350 5925
+Wire Wire Line
+	7150 5800 7475 5800
+Wire Wire Line
+	7150 5675 7600 5675
+Text Notes 7650 5675 0    50   ~ 0
+3CC1
+Text Notes 7650 5800 0    50   ~ 0
+144P
+Text Notes 7650 5925 0    50   ~ 0
+2406
+Text Notes 7650 6050 0    50   ~ 0
+A88A
+Wire Wire Line
+	7775 7525 7600 7525
+Wire Wire Line
+	7600 7525 7600 5675
+Connection ~ 7600 5675
+Wire Wire Line
+	7600 5675 7775 5675
+Wire Wire Line
+	7775 7650 7475 7650
+Wire Wire Line
+	7475 7650 7475 5800
+Connection ~ 7475 5800
+Wire Wire Line
+	7475 5800 7775 5800
+Wire Wire Line
+	7775 7775 7350 7775
+Wire Wire Line
+	7350 7775 7350 5925
+Connection ~ 7350 5925
+Wire Wire Line
+	7350 5925 7775 5925
+Wire Wire Line
+	7775 7900 7225 7900
+Wire Wire Line
+	7225 7900 7225 6050
+Connection ~ 7225 6050
+Wire Wire Line
+	7225 6050 7775 6050
+Text Notes 8000 8425 0    50   ~ 0
+C794
+Text Notes 9075 5525 0    50   ~ 0
+00PH
+Text Notes 9075 5625 0    50   ~ 0
+8PC9
+Text Notes 9075 5725 0    50   ~ 0
+U5C1
+Text Notes 9075 5825 0    50   ~ 0
+7CP5
+Text Notes 9075 5925 0    50   ~ 0
+6UUF
+Text Notes 9075 6025 0    50   ~ 0
+P1A8
+Text Notes 9075 6125 0    50   ~ 0
+4347
+Text Notes 9075 6225 0    50   ~ 0
+FH13
+Text Notes 9075 7375 0    50   ~ 0
+0482
+Text Notes 9075 7475 0    50   ~ 0
+8AH6
+Text Notes 9075 7575 0    50   ~ 0
+50H7
+Text Notes 9075 7675 0    50   ~ 0
+HP83
+Text Notes 9075 7775 0    50   ~ 0
+0482
+Text Notes 9075 7975 0    50   ~ 0
+CC14
+Text Notes 9075 8075 0    50   ~ 0
+3540
+$EndSCHEMATC
