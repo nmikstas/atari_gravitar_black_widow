@@ -85,4 +85,8 @@ U 6B383070
 F0 "Sheet8B" 200
 F1 "Sheet8B.sch" 200
 $EndSheet
+Text Notes 4200 5850 0    200  ~ 40
+DONE
+Text Notes 11975 3775 0    400  ~ 80
+Atari\nGravitar/\nBlack Widow\nPCB
 $EndSCHEMATC
