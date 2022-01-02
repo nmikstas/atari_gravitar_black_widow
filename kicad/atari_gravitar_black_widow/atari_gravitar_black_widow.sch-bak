@@ -89,4 +89,6 @@ Text Notes 4200 5850 0    200  ~ 40
 DONE
 Text Notes 11975 3775 0    400  ~ 80
 Atari\nGravitar/\nBlack Widow\nPCB
+Text Notes 1450 2525 0    200  ~ 40
+DONE
 $EndSCHEMATC
