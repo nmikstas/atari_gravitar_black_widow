@@ -342,17 +342,6 @@ F 3 "" H 3500 6800 50  0001 C CNN
 $EndComp
 Connection ~ 3500 6800
 $Comp
-L power:+5V #PWR?
-U 1 1 6B967041
-P 2925 7925
-F 0 "#PWR?" H 2925 7775 50  0001 C CNN
-F 1 "+5V" V 2940 8053 50  0000 L CNN
-F 2 "" H 2925 7925 50  0001 C CNN
-F 3 "" H 2925 7925 50  0001 C CNN
-	1    2925 7925
-	0    -1   -1   0   
-$EndComp
-$Comp
 L Device:R_US R23
 U 1 1 6B9676F4
 P 3025 7775
@@ -432,7 +421,6 @@ F 3 "~" H 3650 8125 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	2925 8150 2925 7925
-Connection ~ 2925 7925
 Wire Wire Line
 	2925 7925 3025 7925
 Wire Wire Line
@@ -2709,4 +2697,16 @@ Wire Notes Line
 	9250 11600 20700 11600
 Text Notes 14475 8600 0    100  ~ 20
 WATCHDOG
+Connection ~ 2925 7925
+$Comp
+L power:+5V #PWR?
+U 1 1 6B967041
+P 2925 7925
+F 0 "#PWR?" H 2925 7775 50  0001 C CNN
+F 1 "+5V" V 2940 8053 50  0000 L CNN
+F 2 "" H 2925 7925 50  0001 C CNN
+F 3 "" H 2925 7925 50  0001 C CNN
+	1    2925 7925
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC
