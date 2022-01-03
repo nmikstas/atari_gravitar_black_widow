@@ -729,4 +729,22 @@ $EndComp
 NoConn ~ 10650 1425
 NoConn ~ 10050 1325
 NoConn ~ 10050 1525
+Text GLabel 1575 4525 0    50   Input ~ 0
+~RESET
+Text GLabel 1575 4750 0    50   Input ~ 0
+~VGRST
+Text GLabel 1650 4950 0    50   Input ~ 0
+~STROBE1
+Text GLabel 1650 5200 0    50   Input ~ 0
+~STROBE2
+Text GLabel 1550 5450 0    50   Input ~ 0
+~DVY12
+Text GLabel 1550 5800 0    50   Input ~ 0
+DVY10
+Text GLabel 1525 5975 0    50   Input ~ 0
+DVY9
+Text GLabel 1525 6175 0    50   Input ~ 0
+DVY8
+Text GLabel 1525 6400 0    50   Input ~ 0
+~VGGO
 $EndSCHEMATC

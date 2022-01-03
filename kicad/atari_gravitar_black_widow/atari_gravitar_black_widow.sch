@@ -50,7 +50,7 @@ F0 "Sheet5B" 200
 F1 "Sheet5B.sch" 200
 $EndSheet
 $Sheet
-S 6125 4450 2500 2500
+S 6125 4475 2500 2500
 U 6B32D4FA
 F0 "Sheet6B" 200
 F1 "Sheet6B.sch" 200
@@ -91,6 +91,8 @@ Text Notes 11975 3775 0    400  ~ 80
 Atari\nGravitar/\nBlack Widow\nPCB
 Text Notes 1450 2525 0    200  ~ 40
 DONE
-Text Notes 7000 5825 0    200  ~ 40
+Text Notes 7000 5850 0    200  ~ 40
 DONE
+Text Notes 9475 5900 0    200  ~ 40
+JBB\nIN \nPROGRESS\n
 $EndSCHEMATC
