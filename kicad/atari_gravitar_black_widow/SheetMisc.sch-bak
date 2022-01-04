@@ -729,22 +729,48 @@ $EndComp
 NoConn ~ 10650 1425
 NoConn ~ 10050 1325
 NoConn ~ 10050 1525
-Text GLabel 1575 4525 0    50   Input ~ 0
+Text GLabel 1800 7575 0    50   Input ~ 0
 ~RESET
-Text GLabel 1575 4750 0    50   Input ~ 0
+Text GLabel 1800 7800 0    50   Input ~ 0
 ~VGRST
-Text GLabel 1650 4950 0    50   Input ~ 0
+Text GLabel 1875 8000 0    50   Input ~ 0
 ~STROBE1
-Text GLabel 1650 5200 0    50   Input ~ 0
+Text GLabel 1875 8250 0    50   Input ~ 0
 ~STROBE2
-Text GLabel 1550 5450 0    50   Input ~ 0
+Text GLabel 1775 8500 0    50   Input ~ 0
 ~DVY12
-Text GLabel 1550 5800 0    50   Input ~ 0
+Text GLabel 1775 8850 0    50   Input ~ 0
 DVY10
-Text GLabel 1525 5975 0    50   Input ~ 0
+Text GLabel 1750 9025 0    50   Input ~ 0
 DVY9
-Text GLabel 1525 6175 0    50   Input ~ 0
+Text GLabel 1750 9225 0    50   Input ~ 0
 DVY8
-Text GLabel 1525 6400 0    50   Input ~ 0
+Text GLabel 1750 9450 0    50   Input ~ 0
 ~VGGO
+Text GLabel 1650 4525 0    50   Input ~ 0
+~SA
+Text GLabel 1700 4800 0    50   Input ~ 0
+~OP0
+Text GLabel 1875 5100 0    50   Input ~ 0
+~STROBE0
+Text GLabel 1775 5375 0    50   Input ~ 0
+DVY12
+Text GLabel 1775 5600 0    50   Input ~ 0
+DVY11
+Text GLabel 1775 5850 0    50   Input ~ 0
+DVX12
+Text GLabel 1775 6125 0    50   Input ~ 0
+DXV11
+Text GLabel 1775 6375 0    50   Input ~ 0
+SCALE
+Text GLabel 1700 6625 0    50   Input ~ 0
+~OP2
+Text GLabel 1750 6900 0    50   Input ~ 0
+VGCK
+Text GLabel 1875 7075 0    50   Input ~ 0
+~STROBE3
+Text GLabel 1725 7225 0    50   Input ~ 0
+OP2
+Text GLabel 1725 7350 0    50   Input ~ 0
+OP0
 $EndSCHEMATC
