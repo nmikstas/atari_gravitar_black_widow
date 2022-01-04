@@ -1179,4 +1179,96 @@ F 3 "" H 10850 4675 50  0001 C CNN
 	2    10850 4675
 	1    0    0    1   
 $EndComp
+$Comp
+L atari_grav_bw:LS27A U?
+U 2 2 61D4AB2A
+P 5225 6425
+F 0 "U?" H 5200 6800 50  0000 C CNN
+F 1 "LS27A" H 5200 6709 50  0000 C CNN
+F 2 "" H 5225 6425 50  0001 C CNN
+F 3 "" H 5225 6425 50  0001 C CNN
+	2    5225 6425
+	1    0    0    -1  
+$EndComp
+$Comp
+L atari_grav_bw:LS109A U?
+U 1 1 61D6785C
+P 9400 6550
+F 0 "U?" H 10094 6596 50  0000 L CNN
+F 1 "LS109A" H 10094 6505 50  0000 L CNN
+F 2 "" H 9400 6550 50  0001 C CNN
+F 3 "" H 9400 6550 50  0001 C CNN
+	1    9400 6550
+	1    0    0    -1  
+$EndComp
+$Comp
+L atari_grav_bw:LS32 U?
+U 2 1 61D68562
+P 12575 8850
+F 0 "U?" H 12575 8560 50  0000 C CNN
+F 1 "LS32" H 12575 8651 50  0000 C CNN
+F 2 "" H 12575 8850 50  0001 C CNN
+F 3 "" H 12575 8850 50  0001 C CNN
+	2    12575 8850
+	1    0    0    1   
+$EndComp
+$Comp
+L Star_Wars_Vector_PCB:LS86 U?
+U 2 1 61D76815
+P 12950 2175
+F 0 "U?" H 12950 1810 50  0000 C CNN
+F 1 "LS86" H 12950 1901 50  0000 C CNN
+F 2 "" H 12950 2175 50  0001 C CNN
+F 3 "" H 12950 2175 50  0001 C CNN
+	2    12950 2175
+	1    0    0    1   
+$EndComp
+$Comp
+L Star_Wars_Vector_PCB:LS86 U?
+U 1 1 61D8458C
+P 12975 3500
+F 0 "U?" H 12975 3109 50  0000 C CNN
+F 1 "LS86" H 12975 3200 50  0000 C CNN
+F 2 "" H 12975 3500 50  0001 C CNN
+F 3 "" H 12975 3500 50  0001 C CNN
+	1    12975 3500
+	1    0    0    1   
+$EndComp
+$Comp
+L atari_grav_bw:LS74 U?
+U 1 1 61D9391A
+P 15550 2650
+F 0 "U?" H 16194 2696 50  0000 L CNN
+F 1 "LS74" H 16194 2605 50  0000 L CNN
+F 2 "" H 15575 2400 300 0001 C CNN
+F 3 "" H 15575 2400 300 0001 C CNN
+	1    15550 2650
+	1    0    0    -1  
+$EndComp
+Text GLabel 1200 825  0    50   Input ~ 0
+~SA
+Text GLabel 1250 1100 0    50   Input ~ 0
+~OP0
+Text GLabel 1425 1400 0    50   Input ~ 0
+~STROBE0
+Text GLabel 1325 1675 0    50   Input ~ 0
+DVY12
+Text GLabel 1325 1900 0    50   Input ~ 0
+DVY11
+Text GLabel 1325 2150 0    50   Input ~ 0
+DVX12
+Text GLabel 1325 2425 0    50   Input ~ 0
+DXV11
+Text GLabel 1325 2675 0    50   Input ~ 0
+SCALE
+Text GLabel 1250 2925 0    50   Input ~ 0
+~OP2
+Text GLabel 1300 3200 0    50   Input ~ 0
+VGCK
+Text GLabel 1425 3375 0    50   Input ~ 0
+~STROBE3
+Text GLabel 1275 3525 0    50   Input ~ 0
+OP2
+Text GLabel 1275 3650 0    50   Input ~ 0
+OP0
 $EndSCHEMATC
