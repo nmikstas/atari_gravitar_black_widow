@@ -773,4 +773,32 @@ Text GLabel 1725 7225 0    50   Input ~ 0
 OP2
 Text GLabel 1725 7350 0    50   Input ~ 0
 OP0
+Text GLabel 4700 4575 2    50   Input ~ 0
+~ENORM
+Text GLabel 4775 4775 2    50   Input ~ 0
+NORM
+Text GLabel 4825 5000 2    50   Input ~ 0
+~CENTER
+Text GLabel 4775 5200 2    50   Input ~ 0
+VCTR
+Text GLabel 4850 5425 2    50   Input ~ 0
+~VCTR
+Text GLabel 4825 5625 2    50   Input ~ 0
+HALT
+Text GLabel 4850 5800 2    50   Input ~ 0
+GO
+Text GLabel 4825 6050 2    50   Input ~ 0
+~STATCLK
+Text GLabel 4850 6225 2    50   Input ~ 0
+~SCALELD
+Text GLabel 4825 6500 2    50   Input ~ 0
+~STOP
+Text GLabel 1525 9800 0    50   Input ~ 0
+12MHZ
+Text GLabel 1475 9950 0    50   Input ~ 0
+~OP1
+Text GLabel 1475 10100 0    50   Input ~ 0
+~SA
+Text GLabel 1450 10225 0    50   Input ~ 0
+OP1
 $EndSCHEMATC
