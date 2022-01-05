@@ -20,7 +20,7 @@
     (effects (font (size 5.08 5.08) (thickness 1.016) bold) (justify left bottom))
     (uuid 5e6153e6-2c19-46de-9a8e-b310a2a07861)
   )
-  (text "JBB\nIN \nPROGRESS\n" (at 240.665 149.86 0)
+  (text "JBB\ndraft done\n" (at 240.665 149.86 0)
     (effects (font (size 5.08 5.08) (thickness 1.016) bold) (justify left bottom))
     (uuid c512fed3-9770-476b-b048-e781b4f3cd72)
   )
