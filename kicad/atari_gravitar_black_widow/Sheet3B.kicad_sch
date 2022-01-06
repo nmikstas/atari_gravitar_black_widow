@@ -1109,7 +1109,7 @@
           (stroke (width 0) (type default) (color 0 0 0 0))
           (fill (type none))
         )
-        (arc (start 2.54 -3.175) (mid 5.6898 -0.0125) (end 2.5654 3.175)
+        (arc (start 2.54 -3.175) (mid 5.6899 -0.0125) (end 2.5654 3.175)
           (stroke (width 0) (type default) (color 0 0 0 0))
           (fill (type none))
         )
