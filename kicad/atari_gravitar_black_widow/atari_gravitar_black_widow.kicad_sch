@@ -2221,6 +2221,15 @@
     (path "/00000000-0000-0000-0000-00006b32c365/0a9b851b-1e6f-4914-bd20-dfea70c9b267"
       (reference "U?") (unit 1) (value "2532A") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-00006b37f86a/0c2a7ca6-f141-478a-9de7-56e6fbda127a"
+      (reference "U?") (unit 1) (value "LS175B") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00006b37f86a/30808afe-e7ac-4510-971b-6c9fba14bfde"
+      (reference "U?") (unit 1) (value "LS175D") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00006b37f86a/353abf14-55da-4bc7-a328-7d64fa5eb2c0"
+      (reference "U?") (unit 1) (value "LS157C") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00006b1d2f90/37d0f501-088e-4ffb-8284-414b1096acbe"
       (reference "U?") (unit 1) (value "LS04") (footprint "")
     )
@@ -2256,6 +2265,9 @@
     )
     (path "/00000000-0000-0000-0000-00006b1d2f90/b3a5dea4-176f-494f-906c-1153c3581d7a"
       (reference "U?") (unit 1) (value "LS161") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00006b37f86a/bbbe16fd-9c5a-4029-b613-db6d274ce6a7"
+      (reference "U?") (unit 1) (value "LS164") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006b1d2f90/c07df7ed-b483-4a92-a42f-26bc2a7c9197"
       (reference "U?") (unit 1) (value "136010-X") (footprint "")
