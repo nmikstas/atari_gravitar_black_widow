@@ -1802,12 +1802,12 @@
   )
 
   (no_connect (at 72.898 242.316) (uuid 0603534e-8651-402e-bd74-92cbc21a2643))
-  (no_connect (at 70.358 242.316) (uuid 0603534e-8651-402e-bd74-92cbc21a2643))
+  (no_connect (at 70.358 242.316) (uuid 0603534e-8651-402e-bd74-92cbc21a2644))
   (no_connect (at 467.614 152.4) (uuid 0a9e67aa-c502-491a-b680-474f2fdbf92c))
   (no_connect (at 94.488 231.394) (uuid 10e6d7da-fa94-4401-8f6f-88349dfca4af))
   (no_connect (at 83.058 220.726) (uuid 4d0ff5fa-7f2b-49b9-9045-d2f39f01219a))
   (no_connect (at 137.16 213.36) (uuid 6e0cc35a-8c30-47ba-8e54-a4a70ec2ac30))
-  (no_connect (at 137.16 207.01) (uuid 6e0cc35a-8c30-47ba-8e54-a4a70ec2ac30))
+  (no_connect (at 137.16 207.01) (uuid 6e0cc35a-8c30-47ba-8e54-a4a70ec2ac31))
 
   (wire (pts (xy 138.684 219.71) (xy 138.684 247.65))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -3734,8 +3734,8 @@
     (pin "6" (uuid e107e66c-fa83-4f12-bdea-08d4a526567c))
     (pin "7" (uuid bd895789-7d7a-43b0-8f50-ddcf6a73c10e))
     (pin "8" (uuid c527b3c8-ed94-4edb-8d2f-929de9090ff2))
-    (pin "9" (uuid 4096af12-32d3-492b-9143-eec10e8c934f))
-    (pin "9" (uuid 4096af12-32d3-492b-9143-eec10e8c934f))
+    (pin "9" (uuid 4096af12-32d3-492b-9143-eec10e8c9350))
+    (pin "9" (uuid 4096af12-32d3-492b-9143-eec10e8c9350))
   )
 
   (symbol (lib_id "power:GND") (at 454.914 172.72 0) (unit 1)
@@ -3906,8 +3906,8 @@
     (pin "6" (uuid 2be0e540-559c-42d4-92aa-1777e8cd153d))
     (pin "7" (uuid fe77a571-1a8b-4b91-a0c5-541bd5cf43f9))
     (pin "8" (uuid b5dd16e5-10bc-4a12-9ad3-bba14535fcde))
-    (pin "9" (uuid e2790cbb-a7c2-4327-a866-0dc3125e7a5e))
-    (pin "9" (uuid e2790cbb-a7c2-4327-a866-0dc3125e7a5e))
+    (pin "9" (uuid e2790cbb-a7c2-4327-a866-0dc3125e7a5f))
+    (pin "9" (uuid e2790cbb-a7c2-4327-a866-0dc3125e7a5f))
   )
 
   (symbol (lib_id "Device:R") (at 96.012 179.07 270) (unit 1)
