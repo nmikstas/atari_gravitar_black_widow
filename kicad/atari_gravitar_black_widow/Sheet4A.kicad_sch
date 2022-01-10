@@ -3734,8 +3734,8 @@
     (pin "6" (uuid e107e66c-fa83-4f12-bdea-08d4a526567c))
     (pin "7" (uuid bd895789-7d7a-43b0-8f50-ddcf6a73c10e))
     (pin "8" (uuid c527b3c8-ed94-4edb-8d2f-929de9090ff2))
-    (pin "9" (uuid 4096af12-32d3-492b-9143-eec10e8c9352))
-    (pin "9" (uuid 4096af12-32d3-492b-9143-eec10e8c9352))
+    (pin "9" (uuid 4096af12-32d3-492b-9143-eec10e8c9353))
+    (pin "9" (uuid 4096af12-32d3-492b-9143-eec10e8c9353))
   )
 
   (symbol (lib_id "power:GND") (at 454.914 172.72 0) (unit 1)
@@ -3906,8 +3906,8 @@
     (pin "6" (uuid 2be0e540-559c-42d4-92aa-1777e8cd153d))
     (pin "7" (uuid fe77a571-1a8b-4b91-a0c5-541bd5cf43f9))
     (pin "8" (uuid b5dd16e5-10bc-4a12-9ad3-bba14535fcde))
-    (pin "9" (uuid e2790cbb-a7c2-4327-a866-0dc3125e7a61))
-    (pin "9" (uuid e2790cbb-a7c2-4327-a866-0dc3125e7a61))
+    (pin "9" (uuid e2790cbb-a7c2-4327-a866-0dc3125e7a62))
+    (pin "9" (uuid e2790cbb-a7c2-4327-a866-0dc3125e7a62))
   )
 
   (symbol (lib_id "Device:R") (at 96.012 179.07 270) (unit 1)
