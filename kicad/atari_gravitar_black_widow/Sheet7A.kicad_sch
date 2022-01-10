@@ -2804,6 +2804,7 @@
     )
   )
 
+
   (junction (at 259.715 135.255) (diameter 0) (color 0 0 0 0)
     (uuid 088e5f5b-0063-4c25-b87d-ea1401bd0243)
   )
@@ -4753,7 +4754,7 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000061d4b7a1)
     (property "Reference" "K_4" (id 0) (at 414.02 47.625 0))
-    (property "Value" "LS10" (id 1) (at 414.02 50.8 0))
+    (property "Value" "S10" (id 1) (at 414.02 50.8 0))
     (property "Footprint" "" (id 2) (at 415.29 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
