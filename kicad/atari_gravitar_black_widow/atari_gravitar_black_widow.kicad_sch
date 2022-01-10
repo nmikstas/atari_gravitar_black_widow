@@ -2302,6 +2302,9 @@
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006c7222d2"
       (reference "TP12MHZ1") (unit 1) (value "TP") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-00006b37f86a/8ccf51c5-127d-4cbf-91e5-fe41389333c5"
+      (reference "TPBLUE1") (unit 1) (value "TP") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006c89726d"
       (reference "TPGND1") (unit 1) (value "TP") (footprint "")
     )
@@ -2320,14 +2323,23 @@
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006c89f7a6"
       (reference "TPGND6") (unit 1) (value "TP") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-00006b37f86a/19bb4397-623f-4873-bc74-eff8823f75b8"
+      (reference "TPGREEN1") (unit 1) (value "TP") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006c6c58cc"
       (reference "TPPHI0") (unit 1) (value "TP") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00006b37f86a/c983b178-2a71-4fe8-b315-7fbe8ccbdbe6"
+      (reference "TPRED1") (unit 1) (value "TP") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006c67d4fa"
       (reference "TPRESET1") (unit 1) (value "TP") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006b32d4fa/00000000-0000-0000-0000-00006cfd9b2a"
       (reference "TPSACLK1") (unit 1) (value "TP") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00006b37f86a/7dbcce3d-09f3-482f-97ea-6808341a8f67"
+      (reference "TPZOUT1") (unit 1) (value "TP") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006c6aaf3e"
       (reference "TP~POR1") (unit 1) (value "TP") (footprint "")
