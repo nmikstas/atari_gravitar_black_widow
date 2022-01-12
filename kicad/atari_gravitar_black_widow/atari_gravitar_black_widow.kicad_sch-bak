@@ -44,7 +44,7 @@
     (effects (font (size 5.08 5.08) (thickness 1.016) bold) (justify left bottom))
     (uuid cb1a49ef-0a06-4f40-9008-61d1d1c36198)
   )
-  (text "JBB\nDONE\nNeeds FINAL\n" (at 160.147 66.421 0)
+  (text "JBB\nDONE\nNeeds Review" (at 160.147 66.421 0)
     (effects (font (size 5.08 5.08) (thickness 1.016) bold) (justify left bottom))
     (uuid f7ee71a4-4cd4-4959-86cb-598e0ad15881)
   )
