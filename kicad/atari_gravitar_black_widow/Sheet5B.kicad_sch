@@ -1411,7 +1411,7 @@
   )
 
   (no_connect (at 109.22 90.17) (uuid 35b599e9-0a0d-4bf0-b325-ba766ce64620))
-  (no_connect (at 109.22 95.25) (uuid 35b599e9-0a0d-4bf0-b325-ba766ce64620))
+  (no_connect (at 109.22 95.25) (uuid 35b599e9-0a0d-4bf0-b325-ba766ce64621))
 
   (wire (pts (xy 473.075 62.865) (xy 474.98 62.865))
     (stroke (width 0) (type default) (color 0 0 0 0))
