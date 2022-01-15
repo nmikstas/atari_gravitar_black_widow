@@ -3884,7 +3884,7 @@
     (uuid 25ba2dbd-10d4-4a92-9b73-9e1bd4a7810d)
   )
   (text "Coin Door and Control Panel Input" (at 45.72 53.34 0)
-    (effects (font (size 5.08 5.08)) (justify left bottom))
+    (effects (font (size 5.08 5.08) (thickness 1.016) bold) (justify left bottom))
     (uuid 716ae84a-8287-4213-ad8a-79d5bb12ff42)
   )
   (text "Coin Door and Control Panel Output" (at 270.51 248.92 0)
