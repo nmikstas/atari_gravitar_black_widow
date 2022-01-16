@@ -6292,7 +6292,7 @@
   (symbol (lib_id "atari_grav_bw:082") (at 277.495 219.075 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006c105ea1)
-    (property "Reference" "R8" (id 0) (at 280.67 215.9 0))
+    (property "Reference" "R_8" (id 0) (at 280.67 215.9 0))
     (property "Value" "082" (id 1) (at 280.67 222.25 0))
     (property "Footprint" "" (id 2) (at 277.495 219.075 0)
       (effects (font (size 1.27 1.27)) hide)
