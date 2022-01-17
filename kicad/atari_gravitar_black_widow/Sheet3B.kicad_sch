@@ -2281,7 +2281,6 @@
     )
   )
 
-
   (junction (at 91.44 260.35) (diameter 0) (color 0 0 0 0)
     (uuid 00e39da0-4b3e-4884-a91e-86d729914953)
   )
@@ -6018,7 +6017,7 @@
     (property "Value" "2N3904" (id 1) (at 308.991 147.193 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_THT:TO-92_Inline" (id 2) (at 309.245 147.955 0)
+    (property "Footprint" "" (id 2) (at 309.245 147.955 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" (id 3) (at 304.165 146.05 0)

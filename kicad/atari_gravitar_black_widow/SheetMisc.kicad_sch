@@ -5,11 +5,11 @@
   (paper "A2")
 
   (lib_symbols
-    (symbol "082_1" (in_bom yes) (on_board yes)
+    (symbol "atari_grav_bw:082" (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 2.54 2.54 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
-      (property "Value" "082_1" (id 1) (at 2.54 -2.54 0)
+      (property "Value" "082" (id 1) (at 2.54 -2.54 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
       (property "Footprint" "" (id 2) (at 0 0 0)
@@ -21,7 +21,7 @@
       (property "ki_fp_filters" "SOIC*3.9x4.9mm*Pitch1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*Pitch0.65mm* TSSOP*4.4x3mm*Pitch0.65mm* MSOP*3x3mm*Pitch0.65mm* SSOP*3.9x4.9mm*Pitch0.635mm* LFCSP*2x2mm*Pitch0.5mm* *SIP* SOIC*5.3x6.2mm*Pitch1.27mm*" (id 4) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "082_1_0_1"
+      (symbol "082_0_1"
         (polyline
           (pts
             (xy -5.08 -5.08)
@@ -33,7 +33,7 @@
           (fill (type background))
         )
       )
-      (symbol "082_1_1_1"
+      (symbol "082_1_1"
         (pin output line (at 7.62 0 180) (length 2.54)
           (name "~" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
@@ -55,7 +55,7 @@
           (number "8" (effects (font (size 0.762 0.762))))
         )
       )
-      (symbol "082_1_2_1"
+      (symbol "082_2_1"
         (pin input line (at -7.62 2.54 0) (length 2.54)
           (name "+" (effects (font (size 1.27 1.27))))
           (number "5" (effects (font (size 1.27 1.27))))
@@ -2353,6 +2353,22 @@
     (pin "1" (uuid e43dec7f-9359-4836-9087-41ad979ac030))
   )
 
+  (symbol (lib_id "atari_grav_bw:082") (at 262.89 36.195 0) (unit 2)
+    (in_bom yes) (on_board yes)
+    (uuid b3388d17-d77a-4319-9395-bf588510002b)
+    (property "Reference" "R_8" (id 0) (at 268.097 33.02 0))
+    (property "Value" "082" (id 1) (at 268.224 38.354 0))
+    (property "Footprint" "" (id 2) (at 262.89 36.195 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 262.89 36.195 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "5" (uuid 1bfabafb-ab4c-4557-9afc-243dfefbd878))
+    (pin "6" (uuid 88da065f-29f9-40d4-80f0-ba951b4ec42c))
+    (pin "7" (uuid 275f8657-a8e6-42bd-91b6-d0052b560cbd))
+  )
+
   (symbol (lib_id "power:PWR_FLAG") (at 72.39 94.996 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bb6a82b3-80d5-4811-bca3-e6fe1218e031)
@@ -2418,22 +2434,6 @@
     )
     (pin "1" (uuid 85f165c9-1c0f-40ac-a141-a23195331d02))
     (pin "2" (uuid 708cdb42-e64c-42e2-9df9-1bdabf5a9022))
-  )
-
-  (symbol (lib_name "082_1") (lib_id "atari_grav_bw:082") (at 262.89 36.195 0) (unit 2)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
-    (uuid f5d95543-b779-4596-a2da-d17087e7ab13)
-    (property "Reference" "R_8" (id 0) (at 262.89 27.1485 0))
-    (property "Value" "082" (id 1) (at 262.89 29.9236 0))
-    (property "Footprint" "" (id 2) (at 262.89 36.195 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (id 3) (at 262.89 36.195 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "5" (uuid 89366262-e388-4139-93b9-a6d54674b22d))
-    (pin "6" (uuid 26d7b48a-6293-40dc-ba11-5375249780f7))
-    (pin "7" (uuid 45b39c17-1301-4f02-83b6-d66a0868410d))
   )
 
   (symbol (lib_id "power:+24V") (at 69.088 94.996 90) (unit 1)
