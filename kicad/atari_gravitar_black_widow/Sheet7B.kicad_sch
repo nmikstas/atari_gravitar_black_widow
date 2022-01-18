@@ -2153,7 +2153,6 @@
     )
   )
 
-
   (junction (at 521.208 128.397) (diameter 0) (color 0 0 0 0)
     (uuid 01eb4602-8d6d-44ea-9147-40595e3f85f3)
   )
@@ -3202,7 +3201,7 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "~{Z0}" (shape input) (at 40.64 269.113 180) (fields_autoplaced)
+  (global_label "Z0" (shape input) (at 40.64 269.113 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid fb69d02c-bbc3-41c0-9924-3de9d54f9872)
     (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 35.8968 269.0336 0)
