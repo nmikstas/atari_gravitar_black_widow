@@ -4049,7 +4049,7 @@
   (symbol (lib_id "Asteroids:LS02") (at 188.722 308.229 0) (unit 4)
     (in_bom yes) (on_board yes)
     (uuid af5b0949-f220-41df-9675-e4adeb75ceb0)
-    (property "Reference" "N5" (id 0) (at 188.087 304.8 0))
+    (property "Reference" "N_5" (id 0) (at 188.087 304.8 0))
     (property "Value" "LS02" (id 1) (at 188.214 306.705 0))
     (property "Footprint" "" (id 2) (at 188.722 308.229 0)
       (effects (font (size 1.27 1.27)) hide)
