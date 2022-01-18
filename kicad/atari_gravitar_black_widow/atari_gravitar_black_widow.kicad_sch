@@ -2496,8 +2496,8 @@
     (path "/00000000-0000-0000-0000-00006b37f86a/2fa76d19-1c3a-46e7-9038-5c4288fb8fda"
       (reference "Q10") (unit 1) (value "2N3904") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006b38237a/c644ac79-1e17-40bb-9f76-125a3a705563"
-      (reference "Q11") (unit 1) (value "2N3906") (footprint "")
+    (path "/00000000-0000-0000-0000-00006b38237a/771da788-5cc0-42a8-93bf-13494bb5f6c4"
+      (reference "Q11") (unit 1) (value "2N3906") (footprint "Package_TO_SOT_THT:TO-92_Inline")
     )
     (path "/00000000-0000-0000-0000-00006b38237a/9dfac22a-26d5-4cb9-91ad-60eaac4fdbc9"
       (reference "Q12") (unit 1) (value "2N3904") (footprint "")

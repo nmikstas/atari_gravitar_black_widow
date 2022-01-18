@@ -920,7 +920,6 @@
     )
   )
 
-
   (junction (at 164.465 71.12) (diameter 0) (color 0 0 0 0)
     (uuid 50951380-7eaf-44e1-b6b5-8da0fb33951c)
   )
@@ -1388,11 +1387,11 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (global_label "R~{W}" (shape input) (at 111.76 66.04 180) (fields_autoplaced)
+  (global_label "R{slash}~{W}" (shape input) (at 111.76 66.04 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid e93a39c0-ae2f-4d69-82ed-37fb069ff7a5)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 105.3839 65.9606 0)
+      (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
   (global_label "COIN_CNTRL" (shape input) (at 78.74 43.815 0) (fields_autoplaced)
