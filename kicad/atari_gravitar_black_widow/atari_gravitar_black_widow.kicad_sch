@@ -2181,9 +2181,6 @@
     (path "/30e47009-5600-4a7a-ab9c-411044c9d826/fd0093da-eef0-430d-8f27-d26f841d92bc"
       (reference "F_9") (unit 1) (value "AM6012") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006b32d907/ab24d882-ee7e-4eea-a929-da734c61c3ff"
-      (reference "HALT1") (unit 1) (value "TP") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-00006b32c365/95d4d256-21d4-4f74-a935-af7662bb2667"
       (reference "H_1") (unit 1) (value "2532A") (footprint "")
     )
@@ -3240,6 +3237,9 @@
     (path "/00000000-0000-0000-0000-00006b37f86a/19bb4397-623f-4873-bc74-eff8823f75b8"
       (reference "TPGREEN1") (unit 1) (value "TP") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-00006b32d907/ab24d882-ee7e-4eea-a929-da734c61c3ff"
+      (reference "TPHALT1") (unit 1) (value "TP") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006c6c58cc"
       (reference "TPPHI01") (unit 1) (value "TP") (footprint "")
     )
@@ -3288,6 +3288,9 @@
     (path "/00000000-0000-0000-0000-00006b1d2f90/e38fba4d-01c0-4c7d-9556-4eb30a49d464"
       (reference "TP~{ROM5}1") (unit 1) (value "TP") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-00006b32d907/eefa8842-77cd-419a-ad2c-01d787f4cc9f"
+      (reference "TP~{VCTR}1") (unit 1) (value "TP") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00006b1d2f90/54d308ce-8e5b-4797-abe2-780cc7833f31"
       (reference "TP~{VMEM}1") (unit 1) (value "TP") (footprint "")
     )
@@ -3299,9 +3302,6 @@
     )
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006ba5af4d"
       (reference "Y1") (unit 1) (value "12.096 MHZ") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00006b32d907/eefa8842-77cd-419a-ad2c-01d787f4cc9f"
-      (reference "~{VCTR}1") (unit 1) (value "TP") (footprint "")
     )
   )
 )
