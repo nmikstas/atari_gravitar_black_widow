@@ -4296,7 +4296,7 @@
     (property "Value" "6502" (id 1) (at 119.38 173.609 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 113.03 161.29 0)
+    (property "Footprint" "Star_Wars_Vector_PCB:DDIP40" (id 2) (at 113.03 161.29 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 113.03 161.29 0)

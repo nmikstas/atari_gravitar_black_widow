@@ -1543,7 +1543,7 @@
       (reference "B_1") (unit 1) (value "LS244B") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006b32cb47/9807b0fe-2db9-4e5d-a325-0b602789bbbf"
-      (reference "B_3") (unit 1) (value "POKEY") (footprint "")
+      (reference "B_3") (unit 1) (value "POKEY") (footprint "Star_Wars_Vector_PCB:DDIP40")
     )
     (path "/00000000-0000-0000-0000-00006b32cb47/59a23503-c6c2-424a-aeb5-3f80bc0a2408"
       (reference "B_4") (unit 1) (value "8 DIP SW") (footprint "")
@@ -1600,7 +1600,7 @@
       (reference "B_10") (unit 4) (value "LF13201") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006b32cb47/ec928018-60c5-4437-887f-ca9566a6fd84"
-      (reference "C/D_3") (unit 1) (value "POKEY") (footprint "")
+      (reference "C/D_3") (unit 1) (value "POKEY") (footprint "Star_Wars_Vector_PCB:DDIP40")
     )
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006b99edf9"
       (reference "C1") (unit 1) (value ".1uf") (footprint "")
@@ -2014,7 +2014,7 @@
       (reference "C_1") (unit 1) (value "LS244A") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006b1d2f90/77e2b890-8b7f-4e5a-aa35-39f8544bfee3"
-      (reference "C_2") (unit 1) (value "6502") (footprint "")
+      (reference "C_2") (unit 1) (value "6502") (footprint "Star_Wars_Vector_PCB:DDIP40")
     )
     (path "/00000000-0000-0000-0000-00006b1dadfa/eb534f3f-6bff-4b7a-afc7-65399b22a453"
       (reference "C_6") (unit 1) (value "LS175E") (footprint "")
