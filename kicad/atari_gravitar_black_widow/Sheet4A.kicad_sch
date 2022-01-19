@@ -4244,7 +4244,7 @@
     (property "Value" "LS244B" (id 1) (at 205.994 118.491 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 210.058 114.3 0)
+    (property "Footprint" "Star_Wars_Vector_PCB:DIP20" (id 2) (at 210.058 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 210.058 114.3 0)
