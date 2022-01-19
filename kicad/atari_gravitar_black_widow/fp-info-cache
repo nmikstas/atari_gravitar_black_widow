@@ -1,4 +1,4 @@
-19943651616971485
+19970846651179355
 Asteroids
 2N6044
 
@@ -59766,6 +59766,13 @@ Hamamatsu SiPM
 2
 2
 OptoDevice
+Kingbright_KPS-3227
+3.2mmx2.7mm, light sensor, https://www.kingbright.com/attachments/file/psearch/000/00/00/KPS-3227SP1C(Ver.16).pdf
+KPS-3227 Ambient Light Photo Sensor
+0
+4
+4
+OptoDevice
 Kingbright_KPS-5130
 http://www.kingbright.com/attachments/file/psearch/000/00/00/KPS-5130PD7C(Ver.14).pdf
 KPS-5130 photodiode RGB sensor
@@ -84987,14 +84994,28 @@ varistor SIOV
 2
 2
 atari_gravitar_black_widow-backups
-Grav solder
+20.58x11.47
 
 
 0
 0
 0
 atari_gravitar_black_widow-backups
-solder
+20.68x11.57 parts
+
+
+0
+0
+0
+atari_gravitar_black_widow-backups
+solderside
+
+
+0
+0
+0
+atari_gravitar_black_widow-backups
+top
 
 
 0
