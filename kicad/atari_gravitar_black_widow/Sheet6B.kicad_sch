@@ -4772,7 +4772,7 @@
     (uuid 00000000-0000-0000-0000-00006d6e95e5)
     (property "Reference" "H_7" (id 0) (at 382.27 238.76 0))
     (property "Value" "LS42" (id 1) (at 382.27 241.3 0))
-    (property "Footprint" "" (id 2) (at 382.27 240.03 0)
+    (property "Footprint" "Star_Wars_Vector_PCB:DIP16" (id 2) (at 382.27 240.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 382.27 240.03 0)
