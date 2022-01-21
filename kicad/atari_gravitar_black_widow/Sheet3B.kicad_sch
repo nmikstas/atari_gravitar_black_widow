@@ -6699,7 +6699,7 @@
     (property "Value" "LS74" (id 1) (at 467.36 264.795 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 470.535 270.51 0)
+    (property "Footprint" "Star_Wars_Vector_PCB:DIP14" (id 2) (at 470.535 270.51 0)
       (effects (font (size 7.62 7.62)) hide)
     )
     (property "Datasheet" "" (id 3) (at 470.535 270.51 0)

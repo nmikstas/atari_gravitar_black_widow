@@ -2535,7 +2535,7 @@
     (property "Value" "LS194A" (id 1) (at 233.68 129.54 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 236.855 135.89 0)
+    (property "Footprint" "Star_Wars_Vector_PCB:DIP16" (id 2) (at 236.855 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 236.855 135.89 0)

@@ -6485,7 +6485,7 @@
     (uuid 996e174b-f3cf-4361-a37e-07b40e064050)
     (property "Reference" "J_6" (id 0) (at 88.9 142.24 0))
     (property "Value" "LS32" (id 1) (at 88.9 144.78 0))
-    (property "Footprint" "" (id 2) (at 88.9 143.51 0)
+    (property "Footprint" "Star_Wars_Vector_PCB:DIP14" (id 2) (at 88.9 143.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 88.9 143.51 0)

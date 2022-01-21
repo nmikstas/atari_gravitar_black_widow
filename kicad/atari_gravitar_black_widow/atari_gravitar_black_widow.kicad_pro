@@ -120,6 +120,7 @@
       },
       "track_widths": [
         0.0,
+        0.0,
         0.381
       ],
       "via_dimensions": [
@@ -383,7 +384,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "atari_gravitar_black_widow.net",
+      "netlist": "../../../../atari_gravitar_black_widow.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
