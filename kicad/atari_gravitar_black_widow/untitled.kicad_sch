@@ -2598,7 +2598,7 @@
     (property "Value" "TP" (id 1) (at 567.563 178.943 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "" (id 2) (at 567.563 181.483 0)
+    (property "Footprint" "quantum_arcade_pcb:TP" (id 2) (at 567.563 181.483 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 567.563 181.483 0)

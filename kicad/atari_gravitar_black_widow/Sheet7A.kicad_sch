@@ -2856,6 +2856,7 @@
     )
   )
 
+
   (junction (at 259.715 135.255) (diameter 0) (color 0 0 0 0)
     (uuid 088e5f5b-0063-4c25-b87d-ea1401bd0243)
   )
@@ -6078,7 +6079,7 @@
     (property "Value" "TP" (id 1) (at 516.382 206.121 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "" (id 2) (at 516.382 208.661 0)
+    (property "Footprint" "quantum_arcade_pcb:TP" (id 2) (at 516.382 208.661 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 516.382 208.661 0)
@@ -6097,7 +6098,7 @@
     (property "Value" "TP" (id 1) (at 516.382 180.213 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "" (id 2) (at 516.382 182.753 0)
+    (property "Footprint" "quantum_arcade_pcb:TP" (id 2) (at 516.382 182.753 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 516.382 182.753 0)

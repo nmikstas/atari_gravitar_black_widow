@@ -3563,7 +3563,7 @@
     (uuid 149b98c4-2110-4b5f-b41e-5cdc49a74742)
     (property "Reference" "A/B_9" (id 0) (at 262.255 96.52 0))
     (property "Value" "AM6012" (id 1) (at 262.255 103.505 0))
-    (property "Footprint" "Star_Wars_Vector_PCB:DIP20" (id 2) (at 262.255 95.25 0)
+    (property "Footprint" "quantum_arcade_pcb:TP" (id 2) (at 262.255 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 262.255 95.25 0)
