@@ -2567,7 +2567,7 @@
     (property "Value" "MC1495LB" (id 1) (at 456.946 235.331 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 462.026 234.061 0)
+    (property "Footprint" "Star_Wars_Vector_PCB:DIP14" (id 2) (at 462.026 234.061 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 462.026 234.061 0)

@@ -2357,7 +2357,7 @@
     (uuid b3388d17-d77a-4319-9395-bf588510002b)
     (property "Reference" "R_8" (id 0) (at 268.097 33.02 0))
     (property "Value" "082" (id 1) (at 268.224 38.354 0))
-    (property "Footprint" "" (id 2) (at 262.89 36.195 0)
+    (property "Footprint" "Star_Wars_Vector_PCB:DIP8" (id 2) (at 262.89 36.195 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 262.89 36.195 0)
