@@ -163,14 +163,14 @@
     (path "/00000000-0000-0000-0000-00006b1d2f90" (page "3"))
     (path "/00000000-0000-0000-0000-00006b32c365" (page "4"))
     (path "/00000000-0000-0000-0000-00006b32cb47" (page "5"))
+    (path "/30e47009-5600-4a7a-ab9c-411044c9d826" (page "14"))
+    (path "/00000000-0000-0000-0000-00006b37f86a" (page "10"))
     (path "/00000000-0000-0000-0000-00006b32cfda" (page "6"))
     (path "/00000000-0000-0000-0000-00006b1dadfa" (page "7"))
     (path "/00000000-0000-0000-0000-00006b32d4fa" (page "8"))
     (path "/00000000-0000-0000-0000-00006b32d907" (page "9"))
-    (path "/00000000-0000-0000-0000-00006b37f86a" (page "10"))
     (path "/00000000-0000-0000-0000-00006b38237a" (page "11"))
     (path "/00000000-0000-0000-0000-00006b334f6b" (page "13"))
-    (path "/30e47009-5600-4a7a-ab9c-411044c9d826" (page "14"))
   )
 
   (symbol_instances
@@ -1510,7 +1510,7 @@
       (reference "#PWR0539") (unit 1) (value "+10V") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006b38237a/149b98c4-2110-4b5f-b41e-5cdc49a74742"
-      (reference "A/B_9") (unit 1) (value "AM6012") (footprint "quantum_arcade_pcb:TP")
+      (reference "A/B_9") (unit 1) (value "AM6012") (footprint "Star_Wars_Vector_PCB:DIP20")
     )
     (path "/00000000-0000-0000-0000-00006b38237a/bbe3be75-0d21-4738-9375-5ad62fdf283e"
       (reference "A/B_11") (unit 1) (value "MC1495LB") (footprint "Star_Wars_Vector_PCB:DIP14")
@@ -1603,49 +1603,49 @@
       (reference "C/D_3") (unit 1) (value "POKEY") (footprint "Star_Wars_Vector_PCB:DDIP40")
     )
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006b99edf9"
-      (reference "C1") (unit 1) (value ".1uf") (footprint "")
+      (reference "C1") (unit 1) (value ".1uf") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006b99f330"
-      (reference "C2") (unit 1) (value ".1uf") (footprint "")
+      (reference "C2") (unit 1) (value ".1uf") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006b99f77b"
-      (reference "C3") (unit 1) (value ".1uf") (footprint "")
+      (reference "C3") (unit 1) (value ".1uf") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006b99fb54"
-      (reference "C4") (unit 1) (value ".1uf") (footprint "")
+      (reference "C4") (unit 1) (value ".1uf") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006b9a0023"
-      (reference "C5") (unit 1) (value ".1uf") (footprint "")
+      (reference "C5") (unit 1) (value ".1uf") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006b9ae609"
-      (reference "C6") (unit 1) (value ".1uf") (footprint "")
+      (reference "C6") (unit 1) (value ".1uf") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006b9ae60f"
-      (reference "C7") (unit 1) (value ".1uf") (footprint "")
+      (reference "C7") (unit 1) (value ".1uf") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006b9ae615"
-      (reference "C8") (unit 1) (value ".1uf") (footprint "")
+      (reference "C8") (unit 1) (value ".1uf") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
     (path "/00000000-0000-0000-0000-00006b32c365/8065f1a0-b6fd-40a8-b8b3-ea7bd7e4f637"
-      (reference "C9") (unit 1) (value ".1uf") (footprint "")
+      (reference "C9") (unit 1) (value ".1uf") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006b9ae61b"
-      (reference "C10") (unit 1) (value ".1uf") (footprint "")
+      (reference "C10") (unit 1) (value ".1uf") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006b9ae621"
-      (reference "C11") (unit 1) (value ".1uf") (footprint "")
+      (reference "C11") (unit 1) (value ".1uf") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006b9b1595"
-      (reference "C12") (unit 1) (value ".1uf") (footprint "")
+      (reference "C12") (unit 1) (value ".1uf") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006b9b159b"
-      (reference "C13") (unit 1) (value ".1uf") (footprint "")
+      (reference "C13") (unit 1) (value ".1uf") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006b9b15a1"
-      (reference "C14") (unit 1) (value ".1uf") (footprint "")
+      (reference "C14") (unit 1) (value ".1uf") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006b9b15a7"
-      (reference "C15") (unit 1) (value ".1uf") (footprint "")
+      (reference "C15") (unit 1) (value ".1uf") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
     (path "/00000000-0000-0000-0000-00006b32c365/b36905a1-dbad-4378-8cf6-bf42b7bc85d5"
       (reference "C16") (unit 1) (value "47uf") (footprint "")
