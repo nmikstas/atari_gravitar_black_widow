@@ -163,14 +163,14 @@
     (path "/00000000-0000-0000-0000-00006b1d2f90" (page "3"))
     (path "/00000000-0000-0000-0000-00006b32c365" (page "4"))
     (path "/00000000-0000-0000-0000-00006b32cb47" (page "5"))
-    (path "/30e47009-5600-4a7a-ab9c-411044c9d826" (page "14"))
-    (path "/00000000-0000-0000-0000-00006b37f86a" (page "10"))
     (path "/00000000-0000-0000-0000-00006b32cfda" (page "6"))
     (path "/00000000-0000-0000-0000-00006b1dadfa" (page "7"))
     (path "/00000000-0000-0000-0000-00006b32d4fa" (page "8"))
     (path "/00000000-0000-0000-0000-00006b32d907" (page "9"))
+    (path "/00000000-0000-0000-0000-00006b37f86a" (page "10"))
     (path "/00000000-0000-0000-0000-00006b38237a" (page "11"))
     (path "/00000000-0000-0000-0000-00006b334f6b" (page "13"))
+    (path "/30e47009-5600-4a7a-ab9c-411044c9d826" (page "14"))
   )
 
   (symbol_instances
@@ -3210,18 +3210,6 @@
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006c7222d2"
       (reference "TP12MHZ1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
     )
-    (path "/00000000-0000-0000-0000-00006b32cfda/0e589804-ce0e-427a-bbaa-db90170d0a47"
-      (reference "TP?") (unit 1) (value "TP") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00006b32cfda/9c760e5e-bad2-4de5-be8f-7d1227e683f4"
-      (reference "TP?") (unit 1) (value "TP") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00006b32cfda/bae69e32-1f7e-43a5-886e-d18f3a116182"
-      (reference "TP?") (unit 1) (value "TP") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00006b32cfda/e7c68814-3a07-40f4-bc54-cf652f9d43a6"
-      (reference "TP?") (unit 1) (value "TP") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-00006b37f86a/8ccf51c5-127d-4cbf-91e5-fe41389333c5"
       (reference "TPBLUE1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
     )
@@ -3308,6 +3296,18 @@
     )
     (path "/00000000-0000-0000-0000-00006b32cfda/a55cd671-6c96-4d1e-8fad-44a81b780941"
       (reference "TP~{VRAM}1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
+    )
+    (path "/00000000-0000-0000-0000-00006b32cfda/6e5291e5-3702-4218-a1f4-4f19372dbaab"
+      (reference "TP~{VROM0}1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
+    )
+    (path "/00000000-0000-0000-0000-00006b32cfda/5a6728d2-1693-4999-93fe-970d975c5985"
+      (reference "TP~{VROM1}1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
+    )
+    (path "/00000000-0000-0000-0000-00006b32cfda/8e0a3efe-82b0-4b04-846f-5a4718a05b89"
+      (reference "TP~{VROM2}1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
+    )
+    (path "/00000000-0000-0000-0000-00006b32cfda/9c760e5e-bad2-4de5-be8f-7d1227e683f4"
+      (reference "TP~{VROM3}1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
     )
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006b3df6b2"
       (reference "VR1") (unit 1) (value "7915") (footprint "")
