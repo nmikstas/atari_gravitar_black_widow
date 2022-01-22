@@ -163,14 +163,14 @@
     (path "/00000000-0000-0000-0000-00006b1d2f90" (page "3"))
     (path "/00000000-0000-0000-0000-00006b32c365" (page "4"))
     (path "/00000000-0000-0000-0000-00006b32cb47" (page "5"))
-    (path "/30e47009-5600-4a7a-ab9c-411044c9d826" (page "14"))
-    (path "/00000000-0000-0000-0000-00006b37f86a" (page "10"))
     (path "/00000000-0000-0000-0000-00006b32cfda" (page "6"))
     (path "/00000000-0000-0000-0000-00006b1dadfa" (page "7"))
     (path "/00000000-0000-0000-0000-00006b32d4fa" (page "8"))
     (path "/00000000-0000-0000-0000-00006b32d907" (page "9"))
+    (path "/00000000-0000-0000-0000-00006b37f86a" (page "10"))
     (path "/00000000-0000-0000-0000-00006b38237a" (page "11"))
     (path "/00000000-0000-0000-0000-00006b334f6b" (page "13"))
+    (path "/30e47009-5600-4a7a-ab9c-411044c9d826" (page "14"))
   )
 
   (symbol_instances
@@ -3210,6 +3210,9 @@
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006c7222d2"
       (reference "TP12MHZ1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
     )
+    (path "/00000000-0000-0000-0000-00006b32cb47/b6d1c894-d401-4252-8dd0-8ab2696195c1"
+      (reference "TPAUD21") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
+    )
     (path "/00000000-0000-0000-0000-00006b37f86a/8ccf51c5-127d-4cbf-91e5-fe41389333c5"
       (reference "TPBLUE1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
     )
@@ -3260,6 +3263,12 @@
     )
     (path "/00000000-0000-0000-0000-00006b32cfda/be278ee9-deca-455c-90e1-5fac42839b32"
       (reference "TPSAEN1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
+    )
+    (path "/00000000-0000-0000-0000-00006b38237a/fb2eeaea-4e67-4e1b-9b23-6261663125d9"
+      (reference "TPXOUT1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
+    )
+    (path "/00000000-0000-0000-0000-00006b32cb47/b6ce74d2-d906-4822-9d0d-fe2538b2838a"
+      (reference "TPYAUD11") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
     )
     (path "/30e47009-5600-4a7a-ab9c-411044c9d826/1df065fd-548d-41ec-b4c0-76322b396069"
       (reference "TPYOUT1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
