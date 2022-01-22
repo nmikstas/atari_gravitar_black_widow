@@ -3777,7 +3777,7 @@
     (property "Value" ".1uF" (id 1) (at 259.842 168.402 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 257.556 165.8112 0)
+    (property "Footprint" "Star_Wars_Vector_PCB:GenericComp" (id 2) (at 257.556 165.8112 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 261.366 164.846 0)
