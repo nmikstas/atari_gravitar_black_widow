@@ -3210,6 +3210,18 @@
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006c7222d2"
       (reference "TP12MHZ1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
     )
+    (path "/00000000-0000-0000-0000-00006b32cfda/0e589804-ce0e-427a-bbaa-db90170d0a47"
+      (reference "TP?") (unit 1) (value "TP") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00006b32cfda/9c760e5e-bad2-4de5-be8f-7d1227e683f4"
+      (reference "TP?") (unit 1) (value "TP") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00006b32cfda/bae69e32-1f7e-43a5-886e-d18f3a116182"
+      (reference "TP?") (unit 1) (value "TP") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00006b32cfda/e7c68814-3a07-40f4-bc54-cf652f9d43a6"
+      (reference "TP?") (unit 1) (value "TP") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00006b37f86a/8ccf51c5-127d-4cbf-91e5-fe41389333c5"
       (reference "TPBLUE1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
     )
