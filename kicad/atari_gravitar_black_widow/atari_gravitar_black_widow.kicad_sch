@@ -597,6 +597,9 @@
     (path "/30e47009-5600-4a7a-ab9c-411044c9d826/3bb8125c-f10f-4acf-b1ed-f3fe9ff9982c"
       (reference "#PWR0234") (unit 1) (value "+15V") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-00006b334f6b/deae9563-ff88-4164-bacd-5503ebe9d28c"
+      (reference "#PWR0235") (unit 1) (value "+5V") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00006b334f6b/00000000-0000-0000-0000-00006b360d75"
       (reference "#PWR0236") (unit 1) (value "GND") (footprint "")
     )
@@ -1509,6 +1512,9 @@
     (path "/00000000-0000-0000-0000-00006b0e57bf/864bd642-c21d-4235-8b9a-abba02c10e6d"
       (reference "#PWR0539") (unit 1) (value "+10V") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-00006b334f6b/131256f9-95d0-458c-8e3b-115e148e19cb"
+      (reference "#PWR0540") (unit 1) (value "GND") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00006b38237a/149b98c4-2110-4b5f-b41e-5cdc49a74742"
       (reference "A/B_9") (unit 1) (value "AM6012") (footprint "Star_Wars_Vector_PCB:DIP20")
     )
@@ -2279,6 +2285,9 @@
     )
     (path "/00000000-0000-0000-0000-00006b32d4fa/00000000-0000-0000-0000-00006d50ec1d"
       (reference "K_3") (unit 2) (value "LS74") (footprint "Star_Wars_Vector_PCB:DIP14")
+    )
+    (path "/00000000-0000-0000-0000-00006b334f6b/7a2d605c-443c-4a98-9f84-9ab963476e25"
+      (reference "K_4") (unit 1) (value "S10") (footprint "Star_Wars_Vector_PCB:DIP14")
     )
     (path "/00000000-0000-0000-0000-00006b1d2f90/5bb2f273-dcb1-4131-8d44-371f164ab49d"
       (reference "K_4") (unit 2) (value "S10") (footprint "Star_Wars_Vector_PCB:DIP14")
@@ -3198,9 +3207,6 @@
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006c6aaf3e"
       (reference "TP/POR1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
     )
-    (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006c651235"
-      (reference "TP/RESET1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
-    )
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006ca6d159"
       (reference "TP/WDDIS1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
     )
@@ -3258,6 +3264,9 @@
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006c67d4fa"
       (reference "TPRESET1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
     )
+    (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006c651235"
+      (reference "TPRESET2") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
+    )
     (path "/00000000-0000-0000-0000-00006b32d4fa/00000000-0000-0000-0000-00006cfd9b2a"
       (reference "TPSACLK1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
     )
@@ -3278,6 +3287,9 @@
     )
     (path "/00000000-0000-0000-0000-00006b32d4fa/00000000-0000-0000-0000-00006ccce3f2"
       (reference "TP~SA1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
+    )
+    (path "/00000000-0000-0000-0000-00006b0e57bf/77382484-9511-4a00-a356-f6b19f49a733"
+      (reference "TP~{RESET}1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
     )
     (path "/00000000-0000-0000-0000-00006b1d2f90/e2f2c436-cd88-4b85-800e-6f7682be62c5"
       (reference "TP~{ROM0}1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
