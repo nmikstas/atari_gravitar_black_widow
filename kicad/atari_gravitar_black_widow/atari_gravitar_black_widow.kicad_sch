@@ -1936,19 +1936,19 @@
       (reference "C116") (unit 1) (value ".1uf") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
     (path "/00000000-0000-0000-0000-00006b0e57bf/aed2ab5b-07e0-4dbe-b018-ae6083357a39"
-      (reference "C117") (unit 1) (value "100uf 25V") (footprint "")
+      (reference "C117") (unit 1) (value "100uf 25V") (footprint "Star_Wars_Vector_PCB:LargeCap")
     )
     (path "/00000000-0000-0000-0000-00006b37f86a/95443ca8-4816-4b20-91e8-75ab46f19270"
-      (reference "C118") (unit 1) (value ".1uf") (footprint "Star_Wars_Vector_PCB:GenericComp")
+      (reference "C118") (unit 1) (value ".1uf") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006b0e57bf/0faf86aa-396d-47bc-a699-84fcd5660315"
-      (reference "C119") (unit 1) (value "100uf 35V") (footprint "")
+      (reference "C119") (unit 1) (value "100uf 35V") (footprint "Star_Wars_Vector_PCB:LargeCap")
     )
     (path "/00000000-0000-0000-0000-00006b0e57bf/2021f4cd-f45d-439b-a974-1d7dcb7aa3ef"
-      (reference "C120") (unit 1) (value "100uf 35V") (footprint "")
+      (reference "C120") (unit 1) (value "100uf 35V") (footprint "Star_Wars_Vector_PCB:LargeCap")
     )
     (path "/00000000-0000-0000-0000-00006b0e57bf/0d5c4118-e8f6-4c81-96af-d2e76b067706"
-      (reference "C121") (unit 1) (value "22uf 25V") (footprint "")
+      (reference "C121") (unit 1) (value "22uf 25V") (footprint "Star_Wars_Vector_PCB:CapElec2")
     )
     (path "/00000000-0000-0000-0000-00006b38237a/2bb33390-d529-4349-a3c4-889840d4676a"
       (reference "C122") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
@@ -1981,10 +1981,10 @@
       (reference "C132") (unit 1) (value "39pf") (footprint "Star_Wars_Vector_PCB:CapBrown")
     )
     (path "/30e47009-5600-4a7a-ab9c-411044c9d826/abdaf96d-f354-4865-a447-25be7fa2375d"
-      (reference "C134") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:CapBrown")
+      (reference "C134") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
     (path "/30e47009-5600-4a7a-ab9c-411044c9d826/7f98e76d-c364-4979-86e3-fdba1dfecec3"
-      (reference "C135") (unit 1) (value ".1uF") (footprint "")
+      (reference "C135") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
     (path "/30e47009-5600-4a7a-ab9c-411044c9d826/26ab59ad-987a-41d0-9400-894e80ebf365"
       (reference "C136") (unit 1) (value "1000pf") (footprint "")
