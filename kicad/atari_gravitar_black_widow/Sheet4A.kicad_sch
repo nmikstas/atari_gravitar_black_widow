@@ -4769,7 +4769,7 @@
     (uuid fd61940d-7458-40cd-a231-2fe9aeb1770e)
     (property "Reference" "R19" (id 0) (at 96.012 181.102 90))
     (property "Value" "1k" (id 1) (at 96.012 179.07 90))
-    (property "Footprint" "" (id 2) (at 96.012 177.292 90)
+    (property "Footprint" "Star_Wars_Vector_PCB:GenericComp" (id 2) (at 96.012 177.292 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 96.012 179.07 0)

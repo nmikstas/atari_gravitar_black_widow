@@ -4310,7 +4310,7 @@
     (uuid 00000000-0000-0000-0000-00006b3d19fc)
     (property "Reference" "R20" (id 0) (at 371.475 88.9 90))
     (property "Value" "10K" (id 1) (at 371.475 85.09 90))
-    (property "Footprint" "" (id 2) (at 371.221 88.011 90)
+    (property "Footprint" "Star_Wars_Vector_PCB:GenericComp" (id 2) (at 371.221 88.011 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 371.475 86.995 0)
