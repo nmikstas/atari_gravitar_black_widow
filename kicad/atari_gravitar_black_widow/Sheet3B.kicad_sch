@@ -4591,7 +4591,7 @@
     (property "Value" "270 1/2W" (id 1) (at 76.0222 169.418 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 75.311 168.529 90)
+    (property "Footprint" "Star_Wars_Vector_PCB:Inductor1" (id 2) (at 75.311 168.529 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 74.295 168.275 0)
