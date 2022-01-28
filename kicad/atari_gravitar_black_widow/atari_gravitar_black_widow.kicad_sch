@@ -843,12 +843,6 @@
     (path "/00000000-0000-0000-0000-00006b32c365/e7ec289a-467e-4842-a89d-72df965d57d2"
       (reference "#PWR0316") (unit 1) (value "+5V") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006b32c365/e788161f-458f-4cef-9041-1174e7aa8b95"
-      (reference "#PWR0317") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00006b32c365/3a09a3bf-716e-43c2-9889-d7a5d15c96cf"
-      (reference "#PWR0318") (unit 1) (value "GND") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-00006b32c365/3d296861-464e-46f7-a7d3-8bf74a8d7251"
       (reference "#PWR0319") (unit 1) (value "+5V") (footprint "")
     )
@@ -2389,7 +2383,7 @@
       (reference "M_1") (unit 1) (value "2532A") (footprint "Star_Wars_Vector_PCB:DDIP24")
     )
     (path "/00000000-0000-0000-0000-00006b32c365/565c480f-438d-4040-8e5d-04514a20929e"
-      (reference "M_2") (unit 1) (value "137161-001") (footprint "")
+      (reference "M_2") (unit 1) (value "137161-001") (footprint "Package_DIP:DIP-22_W10.16mm")
     )
     (path "/00000000-0000-0000-0000-00006b37f86a/bbbe16fd-9c5a-4029-b613-db6d274ce6a7"
       (reference "M_3") (unit 1) (value "LS164") (footprint "Star_Wars_Vector_PCB:DIP14")
