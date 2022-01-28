@@ -1696,7 +1696,7 @@
       (reference "C29") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
     (path "/00000000-0000-0000-0000-00006b32cb47/36a19461-d266-4c58-a15e-73a9def28fbb"
-      (reference "C30") (unit 1) (value ".22uF") (footprint "Star_Wars_Vector_PCB:CapElec2")
+      (reference "C30") (unit 1) (value ".22uF") (footprint "Star_Wars_Vector_PCB:Inductor1")
     )
     (path "/00000000-0000-0000-0000-00006b32cb47/b92b0ee7-6c99-48c8-8978-95b386116ae0"
       (reference "C31") (unit 1) (value ".015 MYL") (footprint "quantum_arcade_pcb:CapSmall")
@@ -1705,7 +1705,7 @@
       (reference "C32") (unit 1) (value ".015 MYL") (footprint "quantum_arcade_pcb:CapSmall")
     )
     (path "/00000000-0000-0000-0000-00006b32cb47/2cee4237-84fe-4290-9d06-c24a3a713922"
-      (reference "C33") (unit 1) (value ".22uF") (footprint "Star_Wars_Vector_PCB:CapYellow")
+      (reference "C33") (unit 1) (value ".22uF") (footprint "Star_Wars_Vector_PCB:Inductor1")
     )
     (path "/00000000-0000-0000-0000-00006b32cb47/8bbc2d4b-2042-4844-bd27-40af5d8e659e"
       (reference "C34") (unit 1) (value ".22uF") (footprint "Star_Wars_Vector_PCB:CapYellow")
