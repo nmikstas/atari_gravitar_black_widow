@@ -3504,7 +3504,7 @@
     (property "Value" "100pf" (id 1) (at 495.046 209.296 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 496.316 207.0862 0)
+    (property "Footprint" "Star_Wars_Vector_PCB:GenericComp" (id 2) (at 496.316 207.0862 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 500.126 206.121 0)

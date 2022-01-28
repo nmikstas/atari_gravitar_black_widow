@@ -4515,7 +4515,7 @@
     (property "Value" "LS161" (id 1) (at 75.184 231.902 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "Star_Wars_Vector_PCB:DIP14" (id 2) (at 72.898 220.599 0)
+    (property "Footprint" "Star_Wars_Vector_PCB:DIP16" (id 2) (at 72.898 220.599 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 72.898 220.599 0)
