@@ -445,6 +445,10 @@
           (name "~" (effects (font (size 1.016 1.016))))
           (number "1" (effects (font (size 1.016 1.016))))
         )
+        (pin no_connect line (at 5.08 -2.54 180) (length 0) hide
+          (name "~" (effects (font (size 1.27 1.27))))
+          (number "12" (effects (font (size 1.27 1.27))))
+        )
         (pin bidirectional line (at -7.62 0 0) (length 5.08)
           (name "~" (effects (font (size 1.016 1.016))))
           (number "2" (effects (font (size 1.016 1.016))))
@@ -5538,6 +5542,7 @@
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid cb09fad0-e79d-427a-a90b-34981150a813))
+    (pin "12" (uuid 276234ce-15d8-4dbc-92b5-e38aaefccba5))
     (pin "2" (uuid 0dd04c37-c15e-4bff-bab7-84b0c9347933))
     (pin "3" (uuid cdba8e1d-e22e-4714-a5a8-0207c6e2fcea))
   )

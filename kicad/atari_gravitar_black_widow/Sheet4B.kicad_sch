@@ -5518,10 +5518,10 @@
   )
 
   (symbol (lib_id "Asteroids:LS86") (at 102.235 280.67 0) (mirror x) (unit 3)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid b2c7d53f-c4a1-4cf8-8a3b-684dc34521eb)
-    (property "Reference" "B_6" (id 0) (at 102.235 271.7505 0))
-    (property "Value" "S86" (id 1) (at 102.235 274.5256 0))
+    (property "Reference" "B_6" (id 0) (at 103.378 281.559 0))
+    (property "Value" "S86" (id 1) (at 102.743 279.273 0))
     (property "Footprint" "Star_Wars_Vector_PCB:DIP14" (id 2) (at 102.235 280.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
