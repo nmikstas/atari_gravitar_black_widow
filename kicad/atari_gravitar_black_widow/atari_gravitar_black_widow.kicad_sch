@@ -1563,6 +1563,9 @@
     (path "/00000000-0000-0000-0000-00006b32d907/0e958674-1e7f-44c6-8c7b-b833a1661a6d"
       (reference "#PWR0556") (unit 1) (value "GND") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-00006b1d2f90/91ca2fdc-0c54-4158-830a-23d5775b34c6"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00006b38237a/149b98c4-2110-4b5f-b41e-5cdc49a74742"
       (reference "A/B_9") (unit 1) (value "AM6012") (footprint "Star_Wars_Vector_PCB:DIP20")
     )
