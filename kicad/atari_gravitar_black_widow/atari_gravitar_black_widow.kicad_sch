@@ -163,14 +163,14 @@
     (path "/00000000-0000-0000-0000-00006b1d2f90" (page "3"))
     (path "/00000000-0000-0000-0000-00006b32c365" (page "4"))
     (path "/00000000-0000-0000-0000-00006b32cb47" (page "5"))
-    (path "/30e47009-5600-4a7a-ab9c-411044c9d826" (page "14"))
-    (path "/00000000-0000-0000-0000-00006b37f86a" (page "10"))
     (path "/00000000-0000-0000-0000-00006b32cfda" (page "6"))
     (path "/00000000-0000-0000-0000-00006b1dadfa" (page "7"))
     (path "/00000000-0000-0000-0000-00006b32d4fa" (page "8"))
     (path "/00000000-0000-0000-0000-00006b32d907" (page "9"))
+    (path "/00000000-0000-0000-0000-00006b37f86a" (page "10"))
     (path "/00000000-0000-0000-0000-00006b38237a" (page "11"))
     (path "/00000000-0000-0000-0000-00006b334f6b" (page "13"))
+    (path "/30e47009-5600-4a7a-ab9c-411044c9d826" (page "14"))
   )
 
   (symbol_instances
@@ -1884,10 +1884,10 @@
     (path "/00000000-0000-0000-0000-00006b38237a/be7d4317-0420-4459-99b0-bd9fa5154faa"
       (reference "C80") (unit 1) (value ".047uF") (footprint "Star_Wars_Vector_PCB:CapYellow")
     )
-    (path "/30e47009-5600-4a7a-ab9c-411044c9d826/ec9d8048-3909-4cae-b46f-3a2790b8e778"
+    (path "/30e47009-5600-4a7a-ab9c-411044c9d826/a70e7e46-e3e9-4d32-ade3-0e71d2f6006e"
       (reference "C81") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
-    (path "/30e47009-5600-4a7a-ab9c-411044c9d826/a70e7e46-e3e9-4d32-ade3-0e71d2f6006e"
+    (path "/30e47009-5600-4a7a-ab9c-411044c9d826/ec9d8048-3909-4cae-b46f-3a2790b8e778"
       (reference "C82") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
     (path "/30e47009-5600-4a7a-ab9c-411044c9d826/ae7a0568-f93a-453c-864e-c5e6384fe6df"
@@ -1899,10 +1899,10 @@
     (path "/00000000-0000-0000-0000-00006b38237a/f9fdcb6d-fd52-4d78-8a81-6bea17c13451"
       (reference "C85") (unit 1) (value "10pF") (footprint "Star_Wars_Vector_PCB:CapBrown")
     )
-    (path "/00000000-0000-0000-0000-00006b38237a/925bfe63-5be5-4425-87cf-05a36196a8e8"
+    (path "/00000000-0000-0000-0000-00006b38237a/5a2bd61b-a422-4f3a-9d17-8bb97351d772"
       (reference "C86") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
-    (path "/00000000-0000-0000-0000-00006b38237a/5a2bd61b-a422-4f3a-9d17-8bb97351d772"
+    (path "/00000000-0000-0000-0000-00006b38237a/925bfe63-5be5-4425-87cf-05a36196a8e8"
       (reference "C87") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
     (path "/00000000-0000-0000-0000-00006b38237a/dd1f70fc-8f4d-4530-b505-8a089e3c8a66"
