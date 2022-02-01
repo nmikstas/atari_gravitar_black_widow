@@ -163,14 +163,14 @@
     (path "/00000000-0000-0000-0000-00006b1d2f90" (page "3"))
     (path "/00000000-0000-0000-0000-00006b32c365" (page "4"))
     (path "/00000000-0000-0000-0000-00006b32cb47" (page "5"))
+    (path "/30e47009-5600-4a7a-ab9c-411044c9d826" (page "14"))
+    (path "/00000000-0000-0000-0000-00006b37f86a" (page "10"))
     (path "/00000000-0000-0000-0000-00006b32cfda" (page "6"))
     (path "/00000000-0000-0000-0000-00006b1dadfa" (page "7"))
     (path "/00000000-0000-0000-0000-00006b32d4fa" (page "8"))
     (path "/00000000-0000-0000-0000-00006b32d907" (page "9"))
-    (path "/00000000-0000-0000-0000-00006b37f86a" (page "10"))
     (path "/00000000-0000-0000-0000-00006b38237a" (page "11"))
     (path "/00000000-0000-0000-0000-00006b334f6b" (page "13"))
-    (path "/30e47009-5600-4a7a-ab9c-411044c9d826" (page "14"))
   )
 
   (symbol_instances
@@ -495,6 +495,9 @@
     (path "/00000000-0000-0000-0000-00006b32d907/00000000-0000-0000-0000-00006dc68d51"
       (reference "#PWR0199") (unit 1) (value "+5V") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-00006b1d2f90/91ca2fdc-0c54-4158-830a-23d5775b34c6"
+      (reference "#PWR0200") (unit 1) (value "+5V") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00006b32d907/00000000-0000-0000-0000-00006dc680de"
       (reference "#PWR0201") (unit 1) (value "GND") (footprint "")
     )
@@ -690,8 +693,8 @@
     (path "/00000000-0000-0000-0000-00006b32d907/a4a659fb-65a4-4b88-8baf-f7ba2c4c2d86"
       (reference "#PWR0265") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006b32d907/4f9c3442-7731-4886-ae74-37f7b40146bc"
-      (reference "#PWR0266") (unit 1) (value "+5V") (footprint "")
+    (path "/00000000-0000-0000-0000-00006b37f86a/3d662c22-2ee3-4cb0-8837-2155cc30d3de"
+      (reference "#PWR0266") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006b1d2f90/7e079217-6860-4fbe-a4e7-dd1d2950c116"
       (reference "#PWR0267") (unit 1) (value "+5V") (footprint "")
@@ -1562,9 +1565,6 @@
     )
     (path "/00000000-0000-0000-0000-00006b32d907/0e958674-1e7f-44c6-8c7b-b833a1661a6d"
       (reference "#PWR0556") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00006b1d2f90/91ca2fdc-0c54-4158-830a-23d5775b34c6"
-      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006b38237a/149b98c4-2110-4b5f-b41e-5cdc49a74742"
       (reference "A/B_9") (unit 1) (value "AM6012") (footprint "Star_Wars_Vector_PCB:DIP20")
@@ -3402,6 +3402,9 @@
     (path "/00000000-0000-0000-0000-00006b32cfda/be278ee9-deca-455c-90e1-5fac42839b32"
       (reference "TPSAEN1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
     )
+    (path "/00000000-0000-0000-0000-00006b32d907/eefa8842-77cd-419a-ad2c-01d787f4cc9f"
+      (reference "TPVCTR1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
+    )
     (path "/00000000-0000-0000-0000-00006b38237a/fb2eeaea-4e67-4e1b-9b23-6261663125d9"
       (reference "TPXOUT1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
     )
@@ -3437,9 +3440,6 @@
     )
     (path "/00000000-0000-0000-0000-00006b1d2f90/e38fba4d-01c0-4c7d-9556-4eb30a49d464"
       (reference "TP~{ROM5}1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
-    )
-    (path "/00000000-0000-0000-0000-00006b32d907/eefa8842-77cd-419a-ad2c-01d787f4cc9f"
-      (reference "TP~{VCTR}1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")
     )
     (path "/00000000-0000-0000-0000-00006b1d2f90/54d308ce-8e5b-4797-abe2-780cc7833f31"
       (reference "TP~{VMEM}1") (unit 1) (value "TP") (footprint "quantum_arcade_pcb:TP")

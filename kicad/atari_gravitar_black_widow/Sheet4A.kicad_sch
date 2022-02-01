@@ -4487,7 +4487,7 @@
   (symbol (lib_id "power:+5V") (at 83.058 220.599 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 91ca2fdc-0c54-4158-830a-23d5775b34c6)
-    (property "Reference" "#PWR?" (id 0) (at 83.058 224.409 0)
+    (property "Reference" "#PWR0200" (id 0) (at 83.058 224.409 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (id 1) (at 86.233 218.694 0))
