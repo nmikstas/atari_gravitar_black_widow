@@ -1428,8 +1428,8 @@
     (path "/00000000-0000-0000-0000-00006b32cb47/6ecbaac3-93a1-4368-a8d7-21b42685f7a6"
       (reference "#PWR0510") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006b32cb47/0fb471c6-dfd2-49b7-9e49-6f940545f2dc"
-      (reference "#PWR0511") (unit 1) (value "GND") (footprint "")
+    (path "/00000000-0000-0000-0000-00006b32cb47/7f77e0c1-8b5f-4e7b-9d71-da5e16a29a3b"
+      (reference "#PWR0511") (unit 1) (value "power_-15V") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006b32cb47/82419fbe-4046-42f9-8cd0-0807c5143e9f"
       (reference "#PWR0512") (unit 1) (value "GND") (footprint "")
