@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.016,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 3.81,
+          "height": 4.064,
+          "width": 4.064
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -455,14 +455,6 @@
       "Sheet5A"
     ],
     [
-      "30e47009-5600-4a7a-ab9c-411044c9d826",
-      "Sheet 8B"
-    ],
-    [
-      "00000000-0000-0000-0000-00006b37f86a",
-      "Sheet7B"
-    ],
-    [
       "00000000-0000-0000-0000-00006b32cfda",
       "Sheet5B"
     ],
@@ -479,12 +471,20 @@
       "Sheet7A"
     ],
     [
+      "00000000-0000-0000-0000-00006b37f86a",
+      "Sheet7B"
+    ],
+    [
       "00000000-0000-0000-0000-00006b38237a",
       "Sheet8A"
     ],
     [
       "00000000-0000-0000-0000-00006b334f6b",
       "SheetMisc"
+    ],
+    [
+      "30e47009-5600-4a7a-ab9c-411044c9d826",
+      "Sheet 8B"
     ]
   ],
   "text_variables": {}
