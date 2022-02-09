@@ -2868,7 +2868,7 @@
   (symbol (lib_id "Device:Varistor") (at 535.051 175.641 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 412a896f-b96f-4ade-a4ac-263062939ab2)
-    (property "Reference" "RV1" (id 0) (at 538.226 175.641 90))
+    (property "Reference" "RV2" (id 0) (at 538.226 175.641 90))
     (property "Value" "VDR" (id 1) (at 531.876 175.641 90))
     (property "Footprint" "Star_Wars_Vector_PCB:GenericComp" (id 2) (at 533.273 175.641 90)
       (effects (font (size 1.27 1.27)) hide)

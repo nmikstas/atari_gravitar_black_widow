@@ -3369,10 +3369,10 @@
     (path "/00000000-0000-0000-0000-00006b38237a/51d75183-6f09-4a87-98d6-ae409b8f99f8"
       (reference "R219") (unit 1) (value "6.8k") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
-    (path "/30e47009-5600-4a7a-ab9c-411044c9d826/412a896f-b96f-4ade-a4ac-263062939ab2"
+    (path "/00000000-0000-0000-0000-00006b38237a/6ebeffb8-33c9-4138-a2f3-6266bdcdc18c"
       (reference "RV1") (unit 1) (value "VDR") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
-    (path "/00000000-0000-0000-0000-00006b38237a/6ebeffb8-33c9-4138-a2f3-6266bdcdc18c"
+    (path "/30e47009-5600-4a7a-ab9c-411044c9d826/412a896f-b96f-4ade-a4ac-263062939ab2"
       (reference "RV2") (unit 1) (value "VDR") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
     (path "/00000000-0000-0000-0000-00006b1d2f90/17fde662-1692-4700-b103-1a1b643b559f"
