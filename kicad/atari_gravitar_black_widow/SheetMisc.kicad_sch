@@ -5199,7 +5199,7 @@
     (uuid 00000000-0000-0000-0000-00006b360d43)
     (property "Reference" "J17" (id 0) (at 137.16 24.765 0))
     (property "Value" "cat_box_con" (id 1) (at 122.555 24.765 0))
-    (property "Footprint" "Asteroids:J21" (id 2) (at 132.08 10.16 0)
+    (property "Footprint" "Gravitar:catBox" (id 2) (at 132.08 10.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 132.08 10.16 0)

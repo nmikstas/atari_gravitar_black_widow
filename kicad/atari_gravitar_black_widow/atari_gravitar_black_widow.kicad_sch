@@ -2374,7 +2374,7 @@
       (reference "H_8") (unit 1) (value "LS194A") (footprint "Star_Wars_Vector_PCB:DIP16")
     )
     (path "/00000000-0000-0000-0000-00006b334f6b/00000000-0000-0000-0000-00006b360d43"
-      (reference "J17") (unit 1) (value "cat_box_con") (footprint "Asteroids:J21")
+      (reference "J17") (unit 1) (value "cat_box_con") (footprint "Gravitar:catBox")
     )
     (path "/00000000-0000-0000-0000-00006b334f6b/00000000-0000-0000-0000-00006b360dbf"
       (reference "J19") (unit 1) (value "J19") (footprint "Gravitar:J19")
