@@ -1830,11 +1830,11 @@
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006b9bcc35"
       (reference "C37") (unit 1) (value ".1uf") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
-    (path "/00000000-0000-0000-0000-00006b32c365/a3f7a1ad-3f19-4ec8-a5ac-ea868d306df4"
+    (path "/00000000-0000-0000-0000-00006b32c365/f77edfa3-81f4-488f-8b1c-5addac87988e"
       (reference "C38") (unit 1) (value "10uf") (footprint "Star_Wars_Vector_PCB:CapElec2")
     )
-    (path "/00000000-0000-0000-0000-00006b32cb47/25522b7d-f83c-46e7-a0fd-cc97c35f2e87"
-      (reference "C39") (unit 1) (value "10uF") (footprint "Star_Wars_Vector_PCB:CapElec2")
+    (path "/00000000-0000-0000-0000-00006b32cb47/769fe455-982e-46e1-87df-4a07fe1c1d0e"
+      (reference "C39") (unit 1) (value "10uf 50v") (footprint "Star_Wars_Vector_PCB:CapElec2")
     )
     (path "/00000000-0000-0000-0000-00006b0e57bf/00000000-0000-0000-0000-00006b9bcc3b"
       (reference "C40") (unit 1) (value ".1uf") (footprint "Star_Wars_Vector_PCB:GenericComp")
