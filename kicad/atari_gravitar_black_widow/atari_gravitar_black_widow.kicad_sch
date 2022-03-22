@@ -1819,7 +1819,7 @@
       (reference "C33") (unit 1) (value ".22uF") (footprint "Star_Wars_Vector_PCB:Inductor1")
     )
     (path "/00000000-0000-0000-0000-00006b32cb47/8bbc2d4b-2042-4844-bd27-40af5d8e659e"
-      (reference "C34") (unit 1) (value ".22uF") (footprint "Star_Wars_Vector_PCB:CapYellow")
+      (reference "C34") (unit 1) (value ".22uF") (footprint "Star_Wars_Vector_PCB:GenericComp")
     )
     (path "/00000000-0000-0000-0000-00006b32cb47/fde9de5b-02c0-4fdf-87e2-7650c154cd7f"
       (reference "C35") (unit 1) (value ".1uF") (footprint "Star_Wars_Vector_PCB:GenericComp")

@@ -6653,7 +6653,7 @@
     (property "Value" ".22uF" (id 1) (at 417.195 155.575 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Star_Wars_Vector_PCB:CapYellow" (id 2) (at 417.83 151.4348 0)
+    (property "Footprint" "Star_Wars_Vector_PCB:GenericComp" (id 2) (at 417.83 151.4348 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 414.02 152.4 0)
