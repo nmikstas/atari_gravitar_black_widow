@@ -1,0 +1,181 @@
+Part_ID                                                              QTY     DESC             Part_Num
+
+C67,  C68,  C69,  C74,  C75,  C79,  C128, C133                       8       Not Populated    N/A
+R85,  R86,  R92,  R93,  R171, R172, R191                             7       Not Populated    N/A
+C_9,  E_9                                                            2       Not Populated    N/A
+
+*****Gravitar Configuration*****
+C27, C28                                                             2       .001uf           Digikey 399-4450-1-ND
+C34                                                                  1       .22uf            Digikey 399-C410C224M5U5TA-ND
+R46                                                                  1       10k              Digikey 10KQBK-ND
+
+*****Black Widow Configuration*****
+C27                                                                  1       100pf            Digikey 399-9839-ND
+C28, C34                                                             2       Not Populated    N/A
+R46                                                                  1       22k              Digikey 22KQBK-ND
+
+C1,   C2,   C3,   C4,   C5,   C6,   C7,   C8,   C9,   C10,           93      .1uf             Digikey 399-4454-1-ND
+C11,  C12,  C13,  C14,  C15,  C18,  C19,  C20,  C21,  C22,
+C25,  C26,  C29,  C35,  C37,  C40,  C41,  C42,  C43,  C45,
+C46,  C47,  C48,  C49,  C50,  C51,  C52,  C53,  C54,  C55,
+C56,  C57,  C58,  C59,  C60,  C61,  C62,  C63,  C64,  C66,
+C70,  C73,  C76,  C78,  C81,  C82,  C83,  C84,  C86,  C87,
+C88,  C89,  C90,  C91,  C92,  C93,  C94,  C95,  C96,  C97,
+C98,  C99,  C100, C101, C103, C104, C105, C106, C107, C108,
+C109, C114, C115, C116, C122, C123, C124, C125, C126, C130,
+C131, C134, C135
+
+C24,  C112, C127, C132                                               4       39pf             Digikey P9633-ND
+C17,  C36,  C38,  C39                                                4       10uf 50V         Digikey 1572-1294-ND
+C117, C119, C120                                                     3       100uf 35V        Digikey 1572-1309-ND
+C23,  C129                                                           2       100pf            Digikey 1249PH-ND
+C111, C121                                                           2       22uf 25V         Digikey 1572-1393-ND
+C136, C137                                                           2       1000pf           Digikey 478-11460-ND
+C30,  C33                                                            2       .22uf            Digikey 399-C410C224M5U5TA-ND
+C31,  C32                                                            2       .015uf           Digikey 399-4217-ND
+C80,  C72                                                            2       .047uF           Digikey 2870-MKP1839347164-ND
+C44, C71                                                             2       .01uf            Digikey 399-C410C103Z5U5TA7200CT-ND
+C65, C77                                                             2       .01uf            Digikey 399-4148-ND
+C110                                                                 1       2.2uf 35V        Digikey 225TTA050M-ND
+C113                                                                 1       150pF            Digikey 399-4213-ND
+C118                                                                 1       220pf            Digikey BC2672CT-ND
+C16                                                                  1       47uf             Digikey 1572-1249-1-ND
+C85                                                                  1       10pF             Digikey 399-14082-ND
+
+CR3,  CR4                                                            2       1N914            Digikey 1N914FS-ND
+CR1,  CR2, CR5,  CR7                                                 4       1N100            Digikey 2368-1N4002-ND
+CR6                                                                  1       Blue LED         Digikey VAOL-5701SBY4-ND
+CR8                                                                  1       1N754A           Digikey 2368-1N754A-ND
+
+L1,   L2,   L3                                                       3       100uH            Digikey 78F101J-TR-RCCT-ND
+
+Q1,   Q5,   Q6,   Q8,   Q9,   Q10,  Q12                              7       2N3904           Digikey 2N3904TAFSCT-ND
+Q7,   Q11                                                            2       2N3906           Digikey 2N3906TAFSCT-ND
+Q2,   Q3,   Q4                                                       3       2N6044           Digikey BDX53BG-ND
+
+R1,   R2,   R3,   R4,   R5,   R6,   R7,   R8,   R9,   R10,           55(56)  10k              Digikey 10KQBK-ND
+R11,  R12,  R13,  R14,  R15,  R16,  R17,  R18,  R20,  R21,
+R22,  R24,  R25,  R26,  R27,  R28,  R29,  R30,  R31,  R32,
+R33,  R34,  R35,  R36,  R37,  R38,  R39,  R40,  R41,  R58,
+R61,  R62,  R63,  R64,  R65,  R66,  R67,  R68,  R72,  R136,
+R137, R138, R159, R179, R202
+
+R19,  R23,  R47,  R51,  R55,  R71,  R82,  R104, R105, R106,          36      1k               Digikey 1.0KQBK-ND
+R107, R108, R109, R110, R111, R112, R113, R121, R122, R123,
+R124, R125, R126, R127, R139, R140, R141, R142, R143, R149,
+R150, R152, R156, R160, R182, R204
+
+R114, R115, R116, R117, R118, R119, R128, R129, R130, R131,          29      470              Digikey 470KQBK-ND
+R133, R134, R135, R144, R145, R146, R147, R148, R151, R154,
+R158, R169, R170, R176, R184, R193, R194, R199, R209
+
+R49,  R52,  R60,  R89,  R178, R183, R186, R201, R206, R208           10      3.9k             Digikey 3.9KQBK-ND
+R87,  R88,  R96,  R97,  R100, R101, R162, R163, R166, R167           10      7.5K             Digikey 7.50KXBK-ND
+R45,  R50,  R74,  R75,  R76,  R77,  R78,  R79,  R80,  R81            10      100K             Digikey 100KQBK-ND
+R57,  R173, R174, R175, R185, R196, R197, R198, R207, R190           10       2.2k            Digikey 2.2KQBK-ND
+R189, R192, R212, R213                                               4       10K POT          Jameco 43001
+R42,  R73,  R102, R103                                               4       220              Digikey 220QBK-ND
+R90,  R91,  R217, R214                                               4       100              Digikey 100QBK-ND
+R94,  R95,  R84                                                      3       820              Digikey 820QBK-ND
+R43,  R44,  R48                                                      3       1M               Digikey CF14JT1M00CT-ND
+R180, R83,  R203                                                     3       680              Digikey 680QBK-ND
+R153, R218, R215                                                     3       68               Digikey 68QBK-ND
+R187, R210                                                           2       2k Pot           Jameco 43043
+R98,  R99                                                            2       500 Pot          Jameco 43123
+R181, R205                                                           2       2.7k             Digikey 2.7kQBK-ND
+R188, R211                                                           2       5.6k             Digikey 5.6kQBK-ND
+R165, R168                                                           2       7.5k             Digikey 7.50KXBK-ND
+R219, R216                                                           2       6.8k             Digikey 6.8kQBK-ND
+R53,  R54                                                            2       3.3K             Digikey 3.3KQBK-ND
+R69,  R155                                                           2(3)    22k              Digikey 22kQBK-ND
+R161, R177                                                           2       15k              Digikey 15KQBK-ND
+R195                                                                 1       270 1/2W         Digikey 2019-CF1/2CT52R271JCT-ND
+R157                                                                 1       27               Digikey CF14JT68R0CT-ND
+R164                                                                 1       560              Digikey 560QBK-ND
+R200                                                                 1       12K              Digikey 12KQBK-ND
+R56                                                                  1       4.7k             Digikey 4.7KQBK-ND
+R59                                                                  1       1.2k             Digikey 1.2kQBK-ND
+R70                                                                  1       68k              Digikey 68kQBK-ND
+
+RV1, RV2                                                             2       VDR              Alan-1 VDR Replacement
+
+TP+5V1,   TP+5V2,   TP+6.8V1, TP+15V1, TP-15V1,  TPPOR1,             48      Test Point       Digikey WM6456-ND
+TPPHI2,   TP6MHZ1,  TP12MHZ1, TPGND1,  TPGND2,   TPGND3,
+TPGND4,   TPGND5,   TPGND6,  TPPHI01,  TPRESET1, TPRESET2,
+TPRESET1  TPWDDIS1  TPR/W1,  TPROM01,  TPROM11,  TPROM21,
+TPROM31,  TPROM41,  TPROM51, TPVMEM1,  TP-28V1,  TPAUD21,
+TPYAUD11, TPSAEN1,  TPVRAM1, TPVROM01, TPVROM11, TPVROM21,
+TPVROM31, TPSACLK1, TPSA1,   TPHALT1,  TPVCTR1,  TPBLUE1,
+TPGREEN1, TPRED1,   TPZOUT1, TPXOUT1,  TPYOUT1,  TPCAT_STROBE1
+
+VR1                                                                  1       L7915            Digikey 497-7295-5-ND
+VR2                                                                  1       L7815            Digikey 296-21624-5-ND
+
+Y1                                                                   1       12.096MHz        Digikey X429-ND
+
+D_1,    E/F_1,  H_1,    J_1,    K/L_1,  M_1,  M/N_7,  N/P_7,  R_7    9       2532             Alan-1 2732 to 2532 Adapter
+K_8,    R_3,    N_8,    M_8,    N_3,    L_8,  F_6                    7       LS157            Jameco 46771
+L_9,    M_9,    N_9,    B_1,    C_1,    E_2,  H_2                    7       LS244            Jameco 47183
+C_6,    D_6,    D_7,    E_6,    H_6,    K_10, K_2                    7       LS175            Jameco 46957
+A_8,    B_8,    C_8,    F_8,    H_8,    J_8                          6       LS194            Jameco 47052
+R_8,    A_10,   D/E_11, D/E_12, D_10                                 5       TL082            Jameco 33241
+M_6,    N_6,    P_6,    R_6,    J_4                                  5       LS161            Jameco 46818
+A/B_11, A/B_12, C_11,   C_12                                         4       MC1495L          Ebay or Ali Express
+B_7,    K_5,    K_6,    N_5                                          4       LS02             Jameco 46287
+K_3,    A_7,    L_5                                                  3       LS74             Jameco 48004
+R_4,    J_6,    M_5                                                  3       LS32             Jameco 47466
+B_10,   E_10                                                         2       LF13201          Digikey DG201BDJ-E3-ND
+L_4,    L_6                                                          2       LS08             Jameco 46375
+B_3,    C/D_3                                                        2       POKEY            Alan-1 Pokey replacement
+B_4,    D_4                                                          2       8 DIP SW         Jameco 2307639
+B_5,    D_5                                                          2       LM324            Digikey 296-9542-5-ND
+E_3,    L_3                                                          2       LS00             Jameco 46252
+J_3,    K_9                                                          2       LS04             Jameco 46316
+R_1,    R_2                                                          2       GAL16V8A         Alan-1 Address Decoder
+A/B_9,  F_9                                                          2       AM6012           Digikey DAC312HPZ-ND
+N/P_1,  K_7                                                          2       2K X 8 SRAM      Jameco 2297055
+P_2,    P_4                                                          2       LS174            Jameco 46931
+H_3,    H_5                                                          2       LS20             Jameco 47095
+F_4,    H_4                                                          2       LS393            Jameco 47731
+P_8,    F_2                                                          2       LS245            Jameco 47212
+E_8,    R_9                                                          2       LS273            Jameco 47386
+P_10                                                                 1       4 DIP SW         Jameco 2082231
+A_4                                                                  1       555              Digikey 296-1411-5-ND
+A_6                                                                  1       S74              Jameco 676991
+B_6                                                                  1       S86              Jameco 48961
+C_2                                                                  1       6502             Ebay or Ali Express
+D_9                                                                  1       DAC_8            Jameco 831859
+M_2                                                                  1       EAROM            Ebay or Ali Express
+J_9                                                                  1       AVG              Alan-1 AVG replacement
+C_7                                                                  1       LS191            Jameco 47001
+E_4                                                                  1       LS193            Jameco 47036
+E_5                                                                  1       LS109            Jameco 46421
+E_7                                                                  1       S00              Jameco 676959
+F_3                                                                  1       S04              Jameco 676967
+F_5                                                                  1       LS11             Jameco 46439
+F_7                                                                  1       LS14             Jameco 46640
+H_7                                                                  1       LS42             Jameco 47773
+J_2                                                                  1       LS374            Jameco 47634
+J_5                                                                  1       S260             Jameco 64725
+J_7                                                                  1       LS139            Jameco 46623
+K_4                                                                  1       S10              Jameco 676975
+L_7                                                                  1       2716             Jameco 40002
+L_10                                                                 1       LS33             Jameco 2298583
+M_3                                                                  1       LS164            Jameco 46851
+M_4                                                                  1       LS27             Jameco 47378
+N_4                                                                  1       S129             Alan-1 state machine ROM
+P_3                                                                  1       LS138            Jameco 46607
+
+MISC
+-------------------
+Plastic Tabs                                                         5       Tabs             Digikey RPC1553-ND      
+
+IC Sockets
+-------------------
+8  pin    6     Digikey 1175-1475-ND
+14 pin    37    Digikey 2057-ICS-314-T-ND
+16 pin    36    Digikey 2057-ICS-316-T-ND
+20 pin    14    Digikey 2057-ICS-320-T-ND
+24 pin    3(13) Digikey 2057-ICS-624-T-ND
+40 pin    4     Digikey 2057-ICS-640-T-ND
+22 pin    1     Digikey AE10264-ND
